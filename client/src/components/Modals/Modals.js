@@ -29,7 +29,7 @@ const Modals = ({ statsModalOpen, helpModalOpen, closeStatsModal, closeHelpModal
                     <Typography variant='h5' mb={3}>
                         <b>High Scores</b>
                     </Typography>
-                    {highScores.length && (
+                    {highScores.length > 0 && (
                         <table className='high-scores'>
                             <thead>
                                 <tr>
@@ -72,7 +72,7 @@ const Modals = ({ statsModalOpen, helpModalOpen, closeStatsModal, closeHelpModal
                             </tbody>
                         </table>
                     )}
-                    {!highScores && (
+                    {highScores.length === 0 && (
                         <Typography variant='body2' textAlign='center'>
                             <i>No high scores yet!</i>
                         </Typography>
