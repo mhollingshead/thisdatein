@@ -1,0 +1,14 @@
+.high-scores {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.high-scores th {
+    font-size: 10px;
+    text-transform: uppercase;
+}
+
+.high-scores th,
+.high-scores td {
+    padding: 8px;
+}

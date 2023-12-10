@@ -1,0 +1,31 @@
+.MuiSlider-thumb:hover, .Mui-focusVisible, .Mui-active {
+    box-shadow: none !important;
+}
+
+.after .MuiSlider-thumb, .before .MuiSlider-thumb {
+    transition: left 1s ease-in-out;
+}
+
+.after .MuiSlider-thumb[data-index="1"] {
+    z-index: 100 !important;
+}
+
+.after .MuiSlider-thumb[data-index="1"] {
+    color: #1976d3 !important;
+}
+
+.after .MuiSlider-thumb[data-index="1"] .MuiSlider-valueLabel {
+    background-color: #1565c0 !important;
+}
+
+.before .MuiSlider-thumb[data-index="0"] {
+    z-index: 100 !important;
+}
+
+.before .MuiSlider-thumb[data-index="0"] {
+    color: #1976d3 !important;
+}
+
+.before .MuiSlider-thumb[data-index="0"] .MuiSlider-valueLabel {
+    background-color: #1565c0 !important;
+}

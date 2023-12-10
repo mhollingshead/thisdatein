@@ -1,0 +1,22 @@
+.Header {
+    border-bottom: 1px solid #dddddd;
+
+    &__content {
+        width: 100%;
+        max-width: 480px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0.5rem 2rem;
+    }
+
+    &__logo {
+        font-size: 1.25rem;
+        margin: 0;
+    }
+
+    &__menu {
+        display: flex;
+        margin-left: auto;
+    }
+}

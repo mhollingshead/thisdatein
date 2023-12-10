@@ -1,0 +1,17 @@
+ul {
+    list-style-type: square;
+    margin: 0;
+    padding-left: 0.875rem;
+}
+
+li {
+    margin-bottom: 0.5rem;
+
+    &:last-child {
+        margin-bottom: 0;
+    }
+}
+
+li::marker {
+    color: #adcbee;
+}

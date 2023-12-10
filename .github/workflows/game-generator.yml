@@ -1,0 +1,32 @@
+name: Game generator
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  cron:
+    runs-on: ubuntu-latest
+    container: node:18
+    steps:
+      - uses: actions/checkout@v3
+      - run: git config --global --add safe.directory /__w/todayin/todayin
+
+      - name: Install dependencies
+        working-directory: ./server
+        run: npm install
+
+      - name: Generate data for today's game
+        working-directory: ./server
+        run: npm run generate-data
+
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: Add & Commit
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: Crawler
+          message: 'Generated game for ${{ steps.date.outputs.date }}'

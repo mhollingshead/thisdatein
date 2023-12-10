@@ -1,0 +1,56 @@
+{
+    "date": 1702184400000,
+    "rounds": [
+        {
+            "year": 1983,
+            "event": "Democracy is restored in Argentina with the inauguration of President Raúl Alfonsín.",
+            "births": [
+                "Patrick Flueger, American actor",
+                "Xavier Samuel, Australian actor"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1909,
+            "event": "Selma Lagerlöf becomes the first female writer to receive the Nobel Prize in Literature.",
+            "births": [
+                "Hermes Pan, American dancer and choreographer"
+            ],
+            "deaths": [
+                "Red Cloud, American tribal chief (of the Oglala nation)"
+            ]
+        },
+        {
+            "year": 1995,
+            "event": "The Israeli army withdraws from Nablus pursuant to the terms of Oslo Accord.",
+            "births": [
+                "Tacko Fall, Senegalese basketball player"
+            ],
+            "deaths": [
+                "Darren Robinson, American rapper"
+            ]
+        },
+        {
+            "year": 2005,
+            "event": "Sosoliso Airlines Flight 1145 crashes at Port Harcourt International Airport in Nigeria, killing 108 people.",
+            "births": [],
+            "deaths": [
+                "Mary Jackson, American actress",
+                "Eugene McCarthy, American poet, academic, and politician",
+                "Richard Pryor, American comedian, actor, producer, and screenwriter"
+            ]
+        },
+        {
+            "year": 1991,
+            "event": "Nursultan Nazarbayev is sworn in as the 1st President of Kazakhstan.",
+            "births": [
+                "KiKi Layne, American actress",
+                "Eric Reid, American football player",
+                "Dion Waiters, American basketball player"
+            ],
+            "deaths": [
+                "Greta Kempton, Austrian-American painter and academic"
+            ]
+        }
+    ]
+}
