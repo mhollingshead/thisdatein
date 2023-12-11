@@ -1,56 +1,52 @@
 {
-    "date": 1702184400000,
+    "date": 1702270800000,
     "rounds": [
         {
-            "year": 1983,
-            "event": "Democracy is restored in Argentina with the inauguration of President Raúl Alfonsín.",
+            "year": 1937,
+            "event": "Second Italo-Ethiopian War: Italy leaves the League of Nations.",
             "births": [
-                "Patrick Flueger, American actor",
-                "Xavier Samuel, Australian actor"
+                "Jim Harrison, American novelist, essayist, and poet"
             ],
+            "deaths": [
+                "Jaan Anvelt, Estonian theorist and politician",
+                "Hugh Thackeray Turner, English architect and painter"
+            ]
+        },
+        {
+            "year": 1941,
+            "event": "World War II: Germany and Italy declare war on the United States, following the Americans' declaration of war on the Empire of Japan in the wake of the attack on Pearl Harbor. The United States, in turn, declares war on them.",
+            "births": [
+                "Max Baucus, American lawyer, politician, and diplomat, 11th United States Ambassador to China",
+                "J. P. Parisé, Canadian ice hockey player, coach, and manager",
+                "Rogier van Otterloo, Dutch conductor and composer",
+                "J. Frank Wilson, American singer-songwriter"
+            ],
+            "deaths": [
+                "John Gillespie Magee, Jr., American pilot and poet",
+                "Émile Picard, French mathematician and academic"
+            ]
+        },
+        {
+            "year": 2012,
+            "event": "At least 125 people are killed and up to 200 injured in bombings in the Alawite village of Aqrab, Syria.",
+            "births": [],
+            "deaths": [
+                "Galina Vishnevskaya, Russian soprano and actress",
+                "Mendel Weinbach, Polish-Israeli rabbi and scholar",
+                "Ravi Shankar, Indian-American sitar player and composer"
+            ]
+        },
+        {
+            "year": 2007,
+            "event": "Insurgency in the Maghreb: Two car bombs explode in Algiers, Algeria, one near the Supreme Constitutional Court and the other near the offices of the United Nations.",
+            "births": [],
             "deaths": []
         },
         {
-            "year": 1909,
-            "event": "Selma Lagerlöf becomes the first female writer to receive the Nobel Prize in Literature.",
-            "births": [
-                "Hermes Pan, American dancer and choreographer"
-            ],
-            "deaths": [
-                "Red Cloud, American tribal chief (of the Oglala nation)"
-            ]
-        },
-        {
-            "year": 1995,
-            "event": "The Israeli army withdraws from Nablus pursuant to the terms of Oslo Accord.",
-            "births": [
-                "Tacko Fall, Senegalese basketball player"
-            ],
-            "deaths": [
-                "Darren Robinson, American rapper"
-            ]
-        },
-        {
-            "year": 2005,
-            "event": "Sosoliso Airlines Flight 1145 crashes at Port Harcourt International Airport in Nigeria, killing 108 people.",
+            "year": 2006,
+            "event": "Felipe Calderón, the President of Mexico, launches a military-led offensive to put down the drug cartel violence in the state of Michoacán. This effort is often regarded as the first event in the Mexican Drug War.",
             "births": [],
-            "deaths": [
-                "Mary Jackson, American actress",
-                "Eugene McCarthy, American poet, academic, and politician",
-                "Richard Pryor, American comedian, actor, producer, and screenwriter"
-            ]
-        },
-        {
-            "year": 1991,
-            "event": "Nursultan Nazarbayev is sworn in as the 1st President of Kazakhstan.",
-            "births": [
-                "KiKi Layne, American actress",
-                "Eric Reid, American football player",
-                "Dion Waiters, American basketball player"
-            ],
-            "deaths": [
-                "Greta Kempton, Austrian-American painter and academic"
-            ]
+            "deaths": []
         }
     ]
 }
