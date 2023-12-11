@@ -8,11 +8,14 @@ const Countdown = () => {
     useEffect(() => {
         const calculateTimeLeft = () => {
             const now = new Date();
-            const tomorrow = new Date(now);
-            tomorrow.setDate(tomorrow.getDate() + 1);
-            tomorrow.setHours(0, 0, 0, 0);
+            let midnightUTC = new Date(
+                Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), 0, 0, 0)
+            );
+            if (now > midnightUTC) {
+                midnightUTC.setDate(midnightUTC.getDate() + 1);
+            }
 
-            const difference = Math.floor((tomorrow - now) / 1000);
+            const difference = Math.floor((midnightUTC - now) / 1000);
 
             if (difference > 0) {
                 const hours = Math.floor(difference / 3600);
@@ -25,6 +28,7 @@ const Countdown = () => {
                         .padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`
                 );
             } else {
+                // Countdown reached 12:00am UTC
                 setTimeLeft('00:00:00');
             }
         };
