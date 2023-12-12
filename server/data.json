@@ -1,52 +1,52 @@
 {
-    "date": 1702270800000,
+    "date": 1702357200000,
     "rounds": [
         {
-            "year": 1937,
-            "event": "Second Italo-Ethiopian War: Italy leaves the League of Nations.",
+            "year": 1979,
+            "event": "Coup d'état of December Twelfth occurs in South Korea.",
             "births": [
-                "Jim Harrison, American novelist, essayist, and poet"
+                "Garrett Atkins, American baseball player",
+                "Nate Clements, American football player",
+                "John Salmons, American basketball player"
             ],
-            "deaths": [
-                "Jaan Anvelt, Estonian theorist and politician",
-                "Hugh Thackeray Turner, English architect and painter"
-            ]
-        },
-        {
-            "year": 1941,
-            "event": "World War II: Germany and Italy declare war on the United States, following the Americans' declaration of war on the Empire of Japan in the wake of the attack on Pearl Harbor. The United States, in turn, declares war on them.",
-            "births": [
-                "Max Baucus, American lawyer, politician, and diplomat, 11th United States Ambassador to China",
-                "J. P. Parisé, Canadian ice hockey player, coach, and manager",
-                "Rogier van Otterloo, Dutch conductor and composer",
-                "J. Frank Wilson, American singer-songwriter"
-            ],
-            "deaths": [
-                "John Gillespie Magee, Jr., American pilot and poet",
-                "Émile Picard, French mathematician and academic"
-            ]
-        },
-        {
-            "year": 2012,
-            "event": "At least 125 people are killed and up to 200 injured in bombings in the Alawite village of Aqrab, Syria.",
-            "births": [],
-            "deaths": [
-                "Galina Vishnevskaya, Russian soprano and actress",
-                "Mendel Weinbach, Polish-Israeli rabbi and scholar",
-                "Ravi Shankar, Indian-American sitar player and composer"
-            ]
-        },
-        {
-            "year": 2007,
-            "event": "Insurgency in the Maghreb: Two car bombs explode in Algiers, Algeria, one near the Supreme Constitutional Court and the other near the offices of the United Nations.",
-            "births": [],
             "deaths": []
         },
         {
-            "year": 2006,
-            "event": "Felipe Calderón, the President of Mexico, launches a military-led offensive to put down the drug cartel violence in the state of Michoacán. This effort is often regarded as the first event in the Mexican Drug War.",
-            "births": [],
+            "year": 1945,
+            "event": "The People's Republic of Korea is outlawed in the South, by order of the United States Army Military Government in Korea.",
+            "births": [
+                "Tony Williams, American drummer, composer, and producer"
+            ],
             "deaths": []
+        },
+        {
+            "year": 1979,
+            "event": "The 8.2  Tumaco earthquake shakes Colombia and Ecuador with a maximum Mercalli intensity of IX (Violent), killing 300–600, and generating a large tsunami.",
+            "births": [
+                "Garrett Atkins, American baseball player",
+                "Nate Clements, American football player",
+                "John Salmons, American basketball player"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1956,
+            "event": "United Nations Security Council Resolution 121 relating to acceptance of Japan to the United Nations is adopted.",
+            "births": [
+                "Johan van der Velde, Dutch cyclist"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1985,
+            "event": "Arrow Air Flight 1285R, a McDonnell Douglas DC-8, crashes after takeoff in Gander, Newfoundland, killing all 256 people on board, including 236 members of the United States Army's 101st Airborne Division.",
+            "births": [
+                "Pat Calathes, Greek-American basketball player",
+                "Andrew Ladd, Canadian ice hockey player"
+            ],
+            "deaths": [
+                "Anne Baxter, American actress"
+            ]
         }
     ]
 }
