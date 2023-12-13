@@ -1,52 +1,44 @@
 {
-    "date": 1702357200000,
+    "date": 1702443600000,
     "rounds": [
         {
-            "year": 1979,
-            "event": "Coup d'état of December Twelfth occurs in South Korea.",
-            "births": [
-                "Garrett Atkins, American baseball player",
-                "Nate Clements, American football player",
-                "John Salmons, American basketball player"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1945,
-            "event": "The People's Republic of Korea is outlawed in the South, by order of the United States Army Military Government in Korea.",
-            "births": [
-                "Tony Williams, American drummer, composer, and producer"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1979,
-            "event": "The 8.2  Tumaco earthquake shakes Colombia and Ecuador with a maximum Mercalli intensity of IX (Violent), killing 300–600, and generating a large tsunami.",
-            "births": [
-                "Garrett Atkins, American baseball player",
-                "Nate Clements, American football player",
-                "John Salmons, American basketball player"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1956,
-            "event": "United Nations Security Council Resolution 121 relating to acceptance of Japan to the United Nations is adopted.",
-            "births": [
-                "Johan van der Velde, Dutch cyclist"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1985,
-            "event": "Arrow Air Flight 1285R, a McDonnell Douglas DC-8, crashes after takeoff in Gander, Newfoundland, killing all 256 people on board, including 236 members of the United States Army's 101st Airborne Division.",
-            "births": [
-                "Pat Calathes, Greek-American basketball player",
-                "Andrew Ladd, Canadian ice hockey player"
-            ],
+            "year": 1977,
+            "event": "Air Indiana Flight 216 crashes near Evansville Regional Airport, killing 29, including the University of Evansville basketball team, support staff, and boosters of the team.",
+            "births": [],
             "deaths": [
-                "Anne Baxter, American actress"
+                "Oguz Atay, Turkish engineer and author"
             ]
+        },
+        {
+            "year": 1982,
+            "event": "The 6.0 North Yemen earthquake shakes southwestern Yemen with a maximum Mercalli intensity of VIII (Severe), killing 2,800, and injuring 1,500.",
+            "births": [
+                "Dan Hamhuis, Canadian ice hockey player",
+                "Ricky Nolasco, American baseball player"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 2003,
+            "event": "Iraq War: Operation Red Dawn: Former Iraqi President Saddam Hussein is captured near his home town of Tikrit.",
+            "births": [],
+            "deaths": []
+        },
+        {
+            "year": 1994,
+            "event": "Flagship Airlines Flight 3379 crashes in Morrisville, North Carolina, near Raleigh–Durham International Airport, killing 15.",
+            "births": [],
+            "deaths": []
+        },
+        {
+            "year": 1989,
+            "event": "The Troubles: Attack on Derryard checkpoint: The Provisional Irish Republican Army launches an attack on a British Army temporary vehicle checkpoint near Rosslea, Northern Ireland. Two British soldiers are killed and two others are wounded.",
+            "births": [
+                "Hellen Obiri, Kenyan runner",
+                "Katherine Schwarzenegger, American author",
+                "Taylor Swift, American singer-songwriter"
+            ],
+            "deaths": []
         }
     ]
 }
