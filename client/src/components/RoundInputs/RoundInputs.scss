@@ -29,3 +29,7 @@
 .before .MuiSlider-thumb[data-index="0"] .MuiSlider-valueLabel {
     background-color: #1565c0 !important;
 }
+
+.picking .MuiSlider-thumb[data-index="0"] {
+    pointer-events: none !important;
+}

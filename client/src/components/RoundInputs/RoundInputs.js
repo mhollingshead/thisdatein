@@ -5,7 +5,7 @@ import './RoundInputs.scss';
 const RoundInputs = ({ sliderYears, setSliderYears, roundOver }) => {
     const handleChange = (_, newValue) => {
         const value = newValue.find((value) => value !== sliderYears[0]);
-        setTimeout(() => setSliderYears([value, value]), 100);
+        setSliderYears([value, value]);
     };
 
     return (
