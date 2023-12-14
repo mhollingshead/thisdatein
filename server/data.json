@@ -1,42 +1,54 @@
 {
-    "date": 1702443600000,
+    "date": 1702530000000,
     "rounds": [
         {
-            "year": 1977,
-            "event": "Air Indiana Flight 216 crashes near Evansville Regional Airport, killing 29, including the University of Evansville basketball team, support staff, and boosters of the team.",
-            "births": [],
+            "year": 1971,
+            "event": "Bangladesh Liberation War: Over 200 of East Pakistan's intellectuals are executed by the Pakistan Army and their local allies. (The date is commemorated in Bangladesh as Martyred Intellectuals Day.)",
+            "births": [
+                "Michaela Watkins, American actor and comedian"
+            ],
             "deaths": [
-                "Oguz Atay, Turkish engineer and author"
+                "Mufazzal Haider Chaudhury, Bangladeshi linguist and scholar",
+                "Munier Choudhury, Bangladeshi author, playwright, and critic",
+                "Shahidullah Kaiser, Bangladeshi journalist and author"
             ]
         },
         {
-            "year": 1982,
-            "event": "The 6.0 North Yemen earthquake shakes southwestern Yemen with a maximum Mercalli intensity of VIII (Severe), killing 2,800, and injuring 1,500.",
+            "year": 1940,
+            "event": "Plutonium (specifically Pu-238) is first isolated at Berkeley, California.",
             "births": [
-                "Dan Hamhuis, Canadian ice hockey player",
-                "Ricky Nolasco, American baseball player"
+                "Lex Gold, Scottish footballer and civil servant"
+            ],
+            "deaths": [
+                "Anton Korošec, Slovenian priest and politician, 10th Prime Minister of Yugoslavia"
+            ]
+        },
+        {
+            "year": 1955,
+            "event": "Albania, Austria, Bulgaria, Cambodia, Ceylon, Finland, Hungary, Ireland, Italy, Jordan, Laos, Libya, Nepal, Portugal, Romania and Spain join the United Nations through United Nations Security Council Resolution 109.",
+            "births": [
+                "Jane Crafter, Australian golfer",
+                "Jill Pipher, American mathematician and academic"
             ],
             "deaths": []
         },
         {
-            "year": 2003,
-            "event": "Iraq War: Operation Red Dawn: Former Iraqi President Saddam Hussein is captured near his home town of Tikrit.",
-            "births": [],
-            "deaths": []
-        },
-        {
-            "year": 1994,
-            "event": "Flagship Airlines Flight 3379 crashes in Morrisville, North Carolina, near Raleigh–Durham International Airport, killing 15.",
-            "births": [],
-            "deaths": []
-        },
-        {
-            "year": 1989,
-            "event": "The Troubles: Attack on Derryard checkpoint: The Provisional Irish Republican Army launches an attack on a British Army temporary vehicle checkpoint near Rosslea, Northern Ireland. Two British soldiers are killed and two others are wounded.",
+            "year": 1914,
+            "event": "Lisandro de la Torre and others found the Democratic Progressive Party (Partido Demócrata Progresista, PDP) at the Hotel Savoy, Buenos Aires, Argentina.",
             "births": [
-                "Hellen Obiri, Kenyan runner",
-                "Katherine Schwarzenegger, American author",
-                "Taylor Swift, American singer-songwriter"
+                "Karl Carstens, German lieutenant and politician, 5th President of the Federal Republic of Germany",
+                "Rosalyn Tureck, American pianist and harpsichord player"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1960,
+            "event": "Convention against Discrimination in Education of UNESCO is adopted.",
+            "births": [
+                "James Comey, American lawyer, 7th Director of the Federal Bureau of Investigation",
+                "Don Franklin, American actor",
+                "Chris Waddle, English footballer, manager, and sportscaster",
+                "Diane Williams, American sprinter"
             ],
             "deaths": []
         }
