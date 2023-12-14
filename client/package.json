@@ -1,8 +1,8 @@
 {
-  "name": "todayin",
+  "name": "thisdatein",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mhollingshead.github.io/todayin",
+  "homepage": "https://thisdate.in",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",

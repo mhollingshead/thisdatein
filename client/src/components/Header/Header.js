@@ -16,7 +16,7 @@ const Header = () => {
     return (
         <header className='Header'>
             <Box className='Header__content' mx='auto'>
-                <h1 className='Header__logo'>TodayIn</h1>
+                <h1 className='Header__logo'>ThisDateIn</h1>
                 <nav className='Header__menu'>
                     <IconButton color='primary' onClick={openStatsModal}>
                         <BarChart />
