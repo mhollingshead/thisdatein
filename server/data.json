@@ -1,54 +1,50 @@
 {
-    "date": 1702530000000,
+    "date": 1702616400000,
     "rounds": [
         {
-            "year": 1971,
-            "event": "Bangladesh Liberation War: Over 200 of East Pakistan's intellectuals are executed by the Pakistan Army and their local allies. (The date is commemorated in Bangladesh as Martyred Intellectuals Day.)",
+            "year": 1945,
+            "event": "Occupation of Japan/Shinto Directive: General Douglas MacArthur orders that Shinto be abolished as the state religion of Japan.",
             "births": [
-                "Michaela Watkins, American actor and comedian"
-            ],
-            "deaths": [
-                "Mufazzal Haider Chaudhury, Bangladeshi linguist and scholar",
-                "Munier Choudhury, Bangladeshi author, playwright, and critic",
-                "Shahidullah Kaiser, Bangladeshi journalist and author"
-            ]
-        },
-        {
-            "year": 1940,
-            "event": "Plutonium (specifically Pu-238) is first isolated at Berkeley, California.",
-            "births": [
-                "Lex Gold, Scottish footballer and civil servant"
-            ],
-            "deaths": [
-                "Anton Korošec, Slovenian priest and politician, 10th Prime Minister of Yugoslavia"
-            ]
-        },
-        {
-            "year": 1955,
-            "event": "Albania, Austria, Bulgaria, Cambodia, Ceylon, Finland, Hungary, Ireland, Italy, Jordan, Laos, Libya, Nepal, Portugal, Romania and Spain join the United Nations through United Nations Security Council Resolution 109.",
-            "births": [
-                "Jane Crafter, Australian golfer",
-                "Jill Pipher, American mathematician and academic"
+                "Heather Booth, American civil rights activist, feminist, and political strategist",
+                "Ivor Crewe, English political scientist and academic"
             ],
             "deaths": []
         },
         {
-            "year": 1914,
-            "event": "Lisandro de la Torre and others found the Democratic Progressive Party (Partido Demócrata Progresista, PDP) at the Hotel Savoy, Buenos Aires, Argentina.",
+            "year": 1917,
+            "event": "World War I: An armistice between Russia and the Central Powers is signed.",
             "births": [
-                "Karl Carstens, German lieutenant and politician, 5th President of the Federal Republic of Germany",
-                "Rosalyn Tureck, American pianist and harpsichord player"
+                "Shan-ul-Haq Haqqee, Indian-Pakistani linguist and lexicographer"
             ],
             "deaths": []
         },
         {
-            "year": 1960,
-            "event": "Convention against Discrimination in Education of UNESCO is adopted.",
+            "year": 2000,
+            "event": "The third reactor at the Chernobyl Nuclear Power Plant is shut down.",
             "births": [
-                "James Comey, American lawyer, 7th Director of the Federal Bureau of Investigation",
-                "Don Franklin, American actor",
-                "Chris Waddle, English footballer, manager, and sportscaster",
-                "Diane Williams, American sprinter"
+                "Kayvon Thibodeaux, American football player"
+            ],
+            "deaths": [
+                "Haris Brkić, Bosnian-Serbian basketball player"
+            ]
+        },
+        {
+            "year": 2017,
+            "event": "A 6.5earthquake strikes the Indonesian island of Java in the city of Tasikmalaya, resulting in four deaths.",
+            "births": [],
+            "deaths": [
+                "Heinz Wolff, scientist and TV presenter",
+                "Calestous Juma, academic"
+            ]
+        },
+        {
+            "year": 1997,
+            "event": "Tajikistan Airlines Flight 3183 crashes in the desert near Sharjah, United Arab Emirates, killing 85.",
+            "births": [
+                "Maude Apatow, American actress",
+                "Zach Banks, American race car driver",
+                "Magdalena Fręch, Polish tennis player",
+                "Stefania LaVie Owen, New Zealand-American actress"
             ],
             "deaths": []
         }
