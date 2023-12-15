@@ -11,7 +11,7 @@ jobs:
     container: node:18
     steps:
       - uses: actions/checkout@v3
-      - run: git config --global --add safe.directory /__w/todayin/todayin
+      - run: git config --global --add safe.directory /__w/thisdatein/thisdatein
 
       - name: Install dependencies
         working-directory: ./server
