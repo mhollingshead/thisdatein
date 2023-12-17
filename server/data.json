@@ -1,42 +1,52 @@
 {
-    "date": 1702702800000,
+    "date": 1702789200000,
     "rounds": [
         {
-            "year": 2014,
-            "event": "Tehrik-i-Taliban Pakistan militants attack an Army Public School in Peshawar, Pakistan, killing 150 people, 132 of them schoolchildren.",
-            "births": [],
+            "year": 1939,
+            "event": "World War II: Battle of the River Plate: The Admiral Graf Spee is scuttled by Captain Hans Langsdorff outside Montevideo.",
+            "births": [
+                "James Booker, American pianist",
+                "Eddie Kendricks, American R&B singer-songwriter"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1935,
+            "event": "First flight of the Douglas DC-3.",
+            "births": [
+                "Brian Langford, English cricketer",
+                "Cal Ripken Sr., American baseball player, coach, and manager"
+            ],
             "deaths": [
-                "Martin Brasier, English paleontologist, biologist, and academic",
-                "Tim Cochran, American mathematician and academic"
+                "Lizette Woodworth Reese, American poet"
             ]
         },
         {
-            "year": 1905,
-            "event": "In Rugby Union, The \"Match of the Century\" is played between Wales and New Zealand at Cardiff Arms Park.",
+            "year": 1945,
+            "event": "Kurdistan flag day, the flag of Kurdistan was raised for the first time in Mahabad in eastern Kurdistan (Iran).",
             "births": [
-                "Piet Hein, Danish mathematician, author, and poet",
-                "Ruben Nirvi, Finnish linguist and professor"
+                "Ernie Hudson, American actor",
+                "David Mallet, English director",
+                "Chris Matthews, American journalist and author",
+                "Jüri Talvet, Estonian poet and critic",
+                "Jacqueline Wilson, English author and academic"
             ],
             "deaths": []
         },
         {
-            "year": 2022,
-            "event": "A landslide occurs at a camp at an organic farm near the town of Batang Kali in Selangor, Malaysia, trapping 92 people and killing 31.",
-            "births": [],
-            "deaths": []
-        },
-        {
-            "year": 1912,
-            "event": "First Balkan War: The Royal Hellenic Navy defeats the Ottoman Navy at the Battle of Elli.",
-            "births": [],
-            "deaths": []
-        },
-        {
-            "year": 1914,
-            "event": "World War I: Admiral Franz von Hipper commands a raid on Scarborough, Hartlepool and Whitby.",
+            "year": 1948,
+            "event": "The Finnish Security Police is established to remove communist leadership from its predecessor, the State Police.",
             "births": [
-                "O. Winston Link, American photographer"
+                "Valery Belousov, Russian ice hockey player and coach",
+                "Jim Bonfanti, American rock drummer",
+                "Kemal Kılıçdaroğlu, Turkish economist and politician"
             ],
+            "deaths": []
+        },
+        {
+            "year": 1960,
+            "event": "Troops loyal to Emperor Haile Selassie in Ethiopia crush the coup that began December 13, returning power to their leader upon his return from Brazil. Haile Selassie absolves his son of any guilt.",
+            "births": [],
             "deaths": []
         }
     ]
