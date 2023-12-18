@@ -1,52 +1,48 @@
 {
-    "date": 1702789200000,
+    "date": 1702875600000,
     "rounds": [
         {
-            "year": 1939,
-            "event": "World War II: Battle of the River Plate: The Admiral Graf Spee is scuttled by Captain Hans Langsdorff outside Montevideo.",
+            "year": 2019,
+            "event": "The United States House of Representatives impeaches Donald Trump for the first time.",
+            "births": [],
+            "deaths": []
+        },
+        {
+            "year": 1977,
+            "event": "United Airlines Flight 2860 crashes near Kaysville, Utah, killing all three crew members on board.",
             "births": [
-                "James Booker, American pianist",
-                "Eddie Kendricks, American R&B singer-songwriter"
+                "Axwell, Swedish DJ, record producer, member of Swedish House Mafia",
+                "Claudia Gesell, German runner"
+            ],
+            "deaths": [
+                "Michio Nishizawa, Japanese baseball player and manager",
+                "Louis Untermeyer  American poet, anthologist, critic"
+            ]
+        },
+        {
+            "year": 1917,
+            "event": "The resolution containing the language of the Eighteenth Amendment to enact Prohibition is passed by the United States Congress.",
+            "births": [
+                "Ossie Davis, American actor and activist"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1916,
+            "event": "World War I: The Battle of Verdun ends when the second French offensive pushes the Germans back two or three kilometres, causing them to cease their attacks.",
+            "births": [
+                "Douglas Fraser, Scottish-American trade union leader and academic",
+                "Betty Grable, American actress, singer, and dancer"
             ],
             "deaths": []
         },
         {
             "year": 1935,
-            "event": "First flight of the Douglas DC-3.",
+            "event": "The Lanka Sama Samaja Party is founded in Ceylon.",
             "births": [
-                "Brian Langford, English cricketer",
-                "Cal Ripken Sr., American baseball player, coach, and manager"
+                "Rosemary Leach, English actress",
+                "Jacques Pépin, French-American chef and author"
             ],
-            "deaths": [
-                "Lizette Woodworth Reese, American poet"
-            ]
-        },
-        {
-            "year": 1945,
-            "event": "Kurdistan flag day, the flag of Kurdistan was raised for the first time in Mahabad in eastern Kurdistan (Iran).",
-            "births": [
-                "Ernie Hudson, American actor",
-                "David Mallet, English director",
-                "Chris Matthews, American journalist and author",
-                "Jüri Talvet, Estonian poet and critic",
-                "Jacqueline Wilson, English author and academic"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1948,
-            "event": "The Finnish Security Police is established to remove communist leadership from its predecessor, the State Police.",
-            "births": [
-                "Valery Belousov, Russian ice hockey player and coach",
-                "Jim Bonfanti, American rock drummer",
-                "Kemal Kılıçdaroğlu, Turkish economist and politician"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1960,
-            "event": "Troops loyal to Emperor Haile Selassie in Ethiopia crush the coup that began December 13, returning power to their leader upon his return from Brazil. Haile Selassie absolves his son of any guilt.",
-            "births": [],
             "deaths": []
         }
     ]
