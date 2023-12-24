@@ -1,50 +1,55 @@
 {
-    "date": 1703307600000,
+    "date": 1703394000000,
     "rounds": [
         {
-            "year": 1936,
-            "event": "Colombia becomes a signatory to the Buenos Aires copyright treaty.",
+            "year": 1929,
+            "event": "Assassination attempt on Argentine President Hipólito Yrigoyen.",
             "births": [
-                "Frederic Forrest, American actor",
-                "Bobby Ross, American football player and coach",
-                "Willie Wood, American football player"
+                "Lennart Skoglund, Swedish footballer",
+                "Red Sullivan, Canadian ice hockey player and coach",
+                "Philip Ziegler, English historian and author"
             ],
             "deaths": []
         },
         {
-            "year": 1905,
-            "event": "The Tampere conference, where Vladimir Lenin and Joseph Stalin meet for the first time, is held in Tampere, Finland.",
-            "births": [],
-            "deaths": []
-        },
-        {
-            "year": 1990,
-            "event": "History of Slovenia: In a referendum, 88.5% of Slovenia's overall electorate vote for independence from Yugoslavia.",
+            "year": 1920,
+            "event": "Gabriele D'Annunzio surrendered the Italian Regency of Carnaro in the city of Fiume to Italian Armed Forces.",
             "births": [
-                "Mitch Haniger, American baseball player",
-                "Anna Maria Perez de Tagle, American actress and singer"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1972,
-            "event": "The Immaculate Reception is caught by Franco Harris to win the Pittsburgh Steelers their first ever playoff victory, after defeating the Oakland Raiders.",
-            "births": [
-                "Morgan, Italian singer-songwriter and composer",
-                "Christian Potenza, Canadian actor, voice actor and singer"
+                "Franco Lucentini, Italian author and screenwriter",
+                "Yevgeniya Rudneva, Ukrainian-Russian lieutenant and navigator"
             ],
             "deaths": [
-                "Andrei Tupolev, Russian engineer, designed the Tupolev Tu-95 and Tupolev Tu-104"
+                "Stephen Mosher Wood, American lieutenant and politician"
             ]
         },
         {
-            "year": 1955,
-            "event": "The first film adaptation of Väinö Linna's novel The Unknown Soldier, directed by Edvin Laine, premieres.",
+            "year": 1953,
+            "event": "Tangiwai disaster: In New Zealand's North Island, at Tangiwai, a railway bridge is damaged by a lahar and collapses beneath a passenger train, killing 151 people.",
             "births": [
-                "Carol Ann Duffy, Scottish poet and playwright",
-                "Grace Knight, English-Australian singer-songwriter"
+                "Timothy Carhart, American actor"
             ],
             "deaths": []
+        },
+        {
+            "year": 1941,
+            "event": "World War II: Kuching is conquered by Japanese forces.",
+            "births": [
+                "Mike Hazlewood, English singer-songwriter"
+            ],
+            "deaths": [
+                "Siegfried Alkan, German composer"
+            ]
+        },
+        {
+            "year": 1999,
+            "event": "Indian Airlines Flight 814 is hijacked in Indian airspace between Kathmandu, Nepal, and Delhi, India. The aircraft landed at Kandahar in Afghanistan. The incident ended on December 31 with the release of 190 survivors (one passenger is killed).",
+            "births": [],
+            "deaths": [
+                "Bill Bowerman, American runner, coach, and businessman, co-founded Nike, Inc.",
+                "Maurice Couve de Murville, French soldier and politician, 152nd Prime Minister of France",
+                "João Figueiredo, Brazilian general and politician, 30th President of Brazil",
+                "William C. Schneider, American aerospace engineer"
+            ]
         }
     ]
 }
