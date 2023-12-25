@@ -1,55 +1,50 @@
 {
-    "date": 1703394000000,
+    "date": 1703480400000,
     "rounds": [
         {
-            "year": 1929,
-            "event": "Assassination attempt on Argentine President Hipólito Yrigoyen.",
-            "births": [
-                "Lennart Skoglund, Swedish footballer",
-                "Red Sullivan, Canadian ice hockey player and coach",
-                "Philip Ziegler, English historian and author"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1920,
-            "event": "Gabriele D'Annunzio surrendered the Italian Regency of Carnaro in the city of Fiume to Italian Armed Forces.",
-            "births": [
-                "Franco Lucentini, Italian author and screenwriter",
-                "Yevgeniya Rudneva, Ukrainian-Russian lieutenant and navigator"
-            ],
+            "year": 2012,
+            "event": "Air Bagan Flight 011, a Fokker 100, crashes on approach to Heho Airport in Heho, Myanmar, killing two people.",
+            "births": [],
             "deaths": [
-                "Stephen Mosher Wood, American lieutenant and politician"
+                "Erico Aumentado, Filipino journalist, lawyer, and politician",
+                "Halfdan Hegtun, Norwegian radio host and politician",
+                "Joe Krivak, American football player and coach",
+                "Turki bin Sultan, Saudi Arabian politician",
+                "Şerafettin Elçi, Turkish lawyer, politician, government minister"
             ]
         },
         {
-            "year": 1953,
-            "event": "Tangiwai disaster: In New Zealand's North Island, at Tangiwai, a railway bridge is damaged by a lahar and collapses beneath a passenger train, killing 151 people.",
+            "year": 1968,
+            "event": "Apollo program: Apollo 8 performs the first successful Trans-Earth injection (TEI) maneuver, sending the crew and spacecraft on a trajectory back to Earth from Lunar orbit.",
             "births": [
-                "Timothy Carhart, American actor"
+                "Helena Christensen, Danish model and actress",
+                "Jim Dowd, American ice hockey player"
             ],
             "deaths": []
+        },
+        {
+            "year": 2021,
+            "event": "The James Webb Space Telescope is launched.",
+            "births": [],
+            "deaths": [
+                "Wayne Thiebaud, American artist"
+            ]
         },
         {
             "year": 1941,
-            "event": "World War II: Kuching is conquered by Japanese forces.",
+            "event": "World War II: Battle of Hong Kong ends, beginning the Japanese occupation of Hong Kong.",
             "births": [
-                "Mike Hazlewood, English singer-songwriter"
+                "Kenneth Calman, Scottish physician and academic"
             ],
             "deaths": [
-                "Siegfried Alkan, German composer"
+                "Richard S. Aldrich, American lawyer and politician"
             ]
         },
         {
-            "year": 1999,
-            "event": "Indian Airlines Flight 814 is hijacked in Indian airspace between Kathmandu, Nepal, and Delhi, India. The aircraft landed at Kandahar in Afghanistan. The incident ended on December 31 with the release of 190 survivors (one passenger is killed).",
+            "year": 1951,
+            "event": "A bomb explodes at the home of Harry T. Moore and Harriette V. S. Moore, early leaders of the Civil Rights Movement, killing Harry instantly and fatally wounding Harriette.",
             "births": [],
-            "deaths": [
-                "Bill Bowerman, American runner, coach, and businessman, co-founded Nike, Inc.",
-                "Maurice Couve de Murville, French soldier and politician, 152nd Prime Minister of France",
-                "João Figueiredo, Brazilian general and politician, 30th President of Brazil",
-                "William C. Schneider, American aerospace engineer"
-            ]
+            "deaths": []
         }
     ]
 }
