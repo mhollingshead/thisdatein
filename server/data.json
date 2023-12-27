@@ -1,53 +1,49 @@
 {
-    "date": 1703566800000,
+    "date": 1703653200000,
     "rounds": [
         {
-            "year": 1966,
-            "event": "The first Kwanzaa is celebrated by Maulana Karenga, the chair of Black Studies at California State University, Long Beach.",
+            "year": 1983,
+            "event": "Pope John Paul II visits Mehmet Ali Ağca in Rebibbia's prison and personally forgives him for the 1981 attack on him in St. Peter's Square.",
             "births": [
-                "Jay Farrar, American singer-songwriter and guitarist",
-                "Tim Legler, American basketball player and sportscaster",
-                "Jay Yuenger, American guitarist and producer"
+                "Anthony Boric, New Zealand rugby union player",
+                "Cole Hamels, American baseball player",
+                "Jesse Williams, American high jumper"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1978,
+            "event": "Spain becomes a democracy after 40 years of fascist dictatorship.",
+            "births": [
+                "Deuce McAllister, American football player"
             ],
             "deaths": [
-                "Ina Boudier-Bakker, Dutch author",
-                "Herbert Otto Gille, German general",
-                "Guillermo Stábile, Argentinian footballer and manager"
+                "Chris Bell, American singer-songwriter and guitarist",
+                "Houari Boumediene, Algerian colonel and politician, 2nd President of Algeria",
+                "Bob Luman, American singer-songwriter and guitarist"
             ]
         },
         {
-            "year": 2004,
-            "event": "The 9.1–9.3 Indian Ocean earthquake shakes northern Sumatra with a maximum Mercalli intensity of IX (Violent). One of the largest observed tsunamis, it affected coastal and partially mainland areas of Thailand, India, Sri Lanka, the Maldives, Malaysia, Myanmar, Bangladesh, and Indonesia; death toll is estimated at 227,898.",
-            "births": [],
-            "deaths": [
-                "Jonathan Drummond-Webb, South African surgeon and academic",
-                "Angus Ogilvy, English businessman",
-                "Reggie White, American football player and wrestler"
-            ]
-        },
-        {
-            "year": 1998,
-            "event": "Iraq announces its intention to fire upon U.S. and British warplanes that patrol the northern and southern no-fly zones.",
-            "births": [],
-            "deaths": [
-                "Ram Swarup, Indian writer on Hindu philosophy and religion"
-            ]
-        },
-        {
-            "year": 1919,
-            "event": "Babe Ruth of the Boston Red Sox is sold to the New York Yankees by owner Harry Frazee, allegedly establishing the Curse of the Bambino superstition.",
+            "year": 1945,
+            "event": "The International Monetary Fund is created with the signing of an agreement by 29 nations.",
             "births": [],
             "deaths": []
         },
         {
-            "year": 1975,
-            "event": "Tu-144, the world's first commercial supersonic aircraft, surpassing Mach 2, goes into service.",
+            "year": 1911,
+            "event": "\"Jana Gana Mana\", the national anthem of India, is first sung in the Calcutta Session of the Indian National Congress.",
             "births": [
-                "Chris Calaguio, Filipino basketball player",
-                "Marcelo Ríos, Chilean tennis player",
-                "María Vasco, Spanish race walker"
+                "Anna Russell, English-Canadian singer and actress"
             ],
             "deaths": []
+        },
+        {
+            "year": 2002,
+            "event": "Two truck bombs kill 72 and wound 200 at the pro-Moscow headquarters of the Chechen government in Grozny, Chechnya, Russia.",
+            "births": [],
+            "deaths": [
+                "George Roy Hill, American actor, director, producer, and screenwriter"
+            ]
         }
     ]
 }
