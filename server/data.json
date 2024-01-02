@@ -1,45 +1,38 @@
 {
-    "date": 1704085200000,
+    "date": 1704171600000,
     "rounds": [
         {
-            "year": 1947,
-            "event": "Cold War: The American and British occupation zones in Allied-occupied Germany, after World War II, merge to form the Bizone, which later (with the French zone) became part of West Germany.",
+            "year": 1955,
+            "event": "Following the assassination of the Panamanian president José Antonio Remón Cantera, his deputy, José Ramón Guizado, takes power, but is quickly deposed after his involvement in Cantera's death is discovered.",
+            "births": [],
+            "deaths": []
+        },
+        {
+            "year": 1971,
+            "event": "The second Ibrox disaster kills 66 fans at a Rangers-Celtic association football (soccer) match.",
             "births": [
-                "Jon Corzine, American sergeant and politician, 54th Governor of New Jersey"
+                "Taye Diggs, American actor and singer",
+                "Renée Elise Goldsberry, American actress"
             ],
             "deaths": []
         },
         {
-            "year": 1929,
-            "event": "The former municipalities of Point Grey, British Columbia and South Vancouver, British Columbia are amalgamated into Vancouver.",
-            "births": [
-                "Larry L. King, American journalist, author, and playwright"
-            ],
+            "year": 1991,
+            "event": "Sharon Pratt Dixon becomes the first African American woman mayor of a major city and first woman Mayor of the District of Columbia.",
+            "births": [],
+            "deaths": []
+        },
+        {
+            "year": 2022,
+            "event": "Massive nationwide protests and unrest break out in Kazakhstan over the sudden increase of liquefied petroleum gas prices, leaving over 200 people dead and thousands injured.",
+            "births": [],
             "deaths": [
-                "Mustafa Necati, Turkish civil servant and politician, Turkish Minister of Environment and Urban Planning"
+                "Richard Leakey, Kenyan paleontologist and politician"
             ]
         },
         {
-            "year": 1985,
-            "event": "The first British mobile phone call is made by Michael Harrison to his father Sir Ernest Harrison, chairman of Vodafone.",
-            "births": [
-                "Jeff Carter, Canadian ice hockey player",
-                "Steven Davis, Northern Irish footballer",
-                "Tiago Splitter, Brazilian basketball player"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1914,
-            "event": "The SPT Airboat Line becomes the world's first scheduled airline to use a winged aircraft.",
-            "births": [
-                "Noor Inayat Khan, British SOE agent"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 2011,
-            "event": "Estonia officially adopts the Euro currency and becomes the 17th Eurozone country.",
+            "year": 1959,
+            "event": "Luna 1, the first spacecraft to reach the vicinity of the Moon and to orbit the Sun, is launched by the Soviet Union.",
             "births": [],
             "deaths": []
         }
