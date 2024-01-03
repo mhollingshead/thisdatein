@@ -1,40 +1,48 @@
 {
-    "date": 1704171600000,
+    "date": 1704258000000,
     "rounds": [
         {
-            "year": 1955,
-            "event": "Following the assassination of the Panamanian president José Antonio Remón Cantera, his deputy, José Ramón Guizado, takes power, but is quickly deposed after his involvement in Cantera's death is discovered.",
+            "year": 2018,
+            "event": "For the first time in history, all five major storm surge gates in the Netherlands are closed simultaneously in the wake of a storm.",
             "births": [],
-            "deaths": []
+            "deaths": [
+                "Colin Brumby, Australian composer"
+            ]
         },
         {
-            "year": 1971,
-            "event": "The second Ibrox disaster kills 66 fans at a Rangers-Celtic association football (soccer) match.",
+            "year": 2009,
+            "event": "The first block of the blockchain of the decentralized payment system Bitcoin, called the Genesis block, is established by the creator of the system, Satoshi Nakamoto.",
+            "births": [],
+            "deaths": [
+                "Betty Freeman, American philanthropist and photographer",
+                "Pat Hingle, American actor",
+                "Hisayasu Nagata, Japanese politician"
+            ]
+        },
+        {
+            "year": 1947,
+            "event": "Proceedings of the U.S. Congress are televised for the first time.",
             "births": [
-                "Taye Diggs, American actor and singer",
-                "Renée Elise Goldsberry, American actress"
+                "Fran Cotton, English rugby player",
+                "Zulema, American singer-songwriter"
             ],
             "deaths": []
         },
         {
-            "year": 1991,
-            "event": "Sharon Pratt Dixon becomes the first African American woman mayor of a major city and first woman Mayor of the District of Columbia.",
-            "births": [],
+            "year": 1920,
+            "event": "Over 640 are killed after a magnitude 6.4 earthquake strikes the Mexican states Puebla and Veracruz.",
+            "births": [
+                "Siegfried Buback, German lawyer and politician, Attorney General of Germany"
+            ],
             "deaths": []
         },
         {
-            "year": 2022,
-            "event": "Massive nationwide protests and unrest break out in Kazakhstan over the sudden increase of liquefied petroleum gas prices, leaving over 200 people dead and thousands injured.",
+            "year": 1911,
+            "event": "A gun battle in the East End of London leaves two dead. It sparked a political row over the involvement of then-Home Secretary Winston Churchill.",
             "births": [],
             "deaths": [
-                "Richard Leakey, Kenyan paleontologist and politician"
+                "Alexandros Papadiamantis, Greek author and poet"
             ]
-        },
-        {
-            "year": 1959,
-            "event": "Luna 1, the first spacecraft to reach the vicinity of the Moon and to orbit the Sun, is launched by the Soviet Union.",
-            "births": [],
-            "deaths": []
         }
     ]
 }
