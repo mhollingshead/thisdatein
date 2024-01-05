@@ -1,47 +1,50 @@
 {
-    "date": 1704344400000,
+    "date": 1704430800000,
     "rounds": [
         {
-            "year": 1944,
-            "event": "World War II: Operation Carpetbagger, involving the dropping of arms and supplies to resistance fighters in Europe, begins.",
+            "year": 1969,
+            "event": "The Venera 5 space probe is launched at 06:28:08 UTC from Baikonur.",
             "births": [
-                "Gary Stevens, Australian rugby league player",
-                "Alan Sutherland, New Zealand rugby player"
-            ],
-            "deaths": [
-                "Kaj Munk, Danish playwright and pastor"
-            ]
-        },
-        {
-            "year": 1946,
-            "event": "The first day of a three-day “disastrous” tornado outbreak across the south-central United States leaves 41 people dead and at least 412 others injured.",
-            "births": [
-                "Arthur Conley, American singer-songwriter"
+                "Marilyn Manson, American singer-songwriter, actor, and director",
+                "Shaun Micheel, American golfer",
+                "Shea Whigham, American actor"
             ],
             "deaths": []
         },
         {
-            "year": 1987,
-            "event": "The Maryland train collision: An Amtrak train en route to Boston from Washington, D.C., collides with Conrail engines in Chase, Maryland, United States, killing 16 people.",
+            "year": 1949,
+            "event": "In his State of the Union address, United States President Harry S. Truman unveils his Fair Deal program.",
+            "births": [],
+            "deaths": []
+        },
+        {
+            "year": 1970,
+            "event": "The 7.1 Tonghai earthquake shakes Tonghai County, Yunnan province, China, with a maximum Mercalli intensity of X (Extreme). Between 10,000 and 15,000 people are known to have been killed and about another 26,000 are injured.",
             "births": [
-                "Marissa Coleman, American basketball player",
-                "Kay Voser, Swiss footballer"
+                "Nigel Gaffey, Australian rugby league player"
+            ],
+            "deaths": [
+                "Max Born, German physicist and mathematician, Nobel Prize laureate",
+                "Roberto Gerhard, Catalan composer and scholar"
+            ]
+        },
+        {
+            "year": 1953,
+            "event": "The play Waiting for Godot by Samuel Beckett receives its première in Paris.",
+            "births": [
+                "Pamela Sue Martin, American actress",
+                "Mike Rann, English-Australian journalist and politician, 44th Premier of South Australia",
+                "George Tenet, American civil servant and academic, 18th Director of Central Intelligence"
             ],
             "deaths": []
         },
         {
-            "year": 2007,
-            "event": "The 110th United States Congress convenes, electing Nancy Pelosi as the first female Speaker of the House in U.S. history.",
-            "births": [],
-            "deaths": [
-                "Helen Hill, American director and producer",
-                "Marais Viljoen, South African politician, 5th State President of South Africa"
-            ]
-        },
-        {
-            "year": 1972,
-            "event": "Rose Heilbron becomes the first female judge to sit at the Old Bailey in London, UK.",
-            "births": [],
+            "year": 1919,
+            "event": "The German Workers' Party, which would become the Nazi Party, is founded in Munich.",
+            "births": [
+                "Hector Abhayavardhana, Sri Lankan theorist and politician",
+                "Severino Gazzelloni, Italian flute player"
+            ],
             "deaths": []
         }
     ]
