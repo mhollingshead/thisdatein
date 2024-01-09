@@ -1,48 +1,47 @@
 {
-    "date": 1704690000000,
+    "date": 1704776400000,
     "rounds": [
         {
-            "year": 1996,
-            "event": "An Antonov An-32 cargo aircraft crashes into a crowded market in Kinshasa, Zaire, killing up to 223 people on the ground; two of six crew members are also killed.",
+            "year": 2014,
+            "event": "An explosion at a Mitsubishi Materials chemical plant in Yokkaichi, Japan, kills at least five people and injures 17 others.",
             "births": [],
             "deaths": [
-                "Metin Göktepe, Turkish photographer and journalist",
-                "François Mitterrand, French sergeant and politician, 21st President of France"
+                "Amiri Baraka, American poet, playwright, and academic",
+                "Josep Maria Castellet, Spanish poet and critic",
+                "Paul du Toit, South African painter and sculptor",
+                "Dale T. Mortensen, American economist and academic, Nobel Prize laureate"
             ]
         },
         {
-            "year": 2023,
-            "event": "Supporters of former Brazil president Jair Bolsonaro storm the Brazilian Congress.",
+            "year": 2005,
+            "event": "Mahmoud Abbas wins the election to succeed Yasser Arafat as President of the Palestinian National Authority, replacing interim president Rawhi Fattouh.",
             "births": [],
             "deaths": []
         },
         {
-            "year": 1961,
-            "event": "In France a referendum supports Charles de Gaulle's policies in Algeria.",
+            "year": 1920,
+            "event": "Ukrainian War of Independence: The All-Ukrainian Central Executive Committee outlaws the Makhnovshchina by decree, igniting the Bolshevik–Makhnovist conflict.",
             "births": [
-                "Calvin Smith, American sprinter"
-            ],
-            "deaths": [
-                "Schoolboy Rowe, American baseball player and coach"
-            ]
-        },
-        {
-            "year": 2016,
-            "event": "West Air Sweden Flight 294 crashes near the Swedish reservoir of Akkajaure; both pilots, the only people on board, are killed.",
-            "births": [],
-            "deaths": [
-                "Maria Teresa de Filippis, Italian racing driver",
-                "German Moreno, Filipino television host, actor, comedian and talent manager"
-            ]
-        },
-        {
-            "year": 1912,
-            "event": "The African National Congress is founded, under the name South African Native National Congress (SANNC).",
-            "births": [
-                "José Ferrer, Puerto Rican-American actor and director",
-                "Lawrence Walsh, Canadian-American lawyer, judge, and politician, 4th United States Deputy Attorney General"
+                "Clive Dunn, English actor",
+                "Hakim Said, Pakistani scholar and politician, 20th Governor of Sindh"
             ],
             "deaths": []
+        },
+        {
+            "year": 2021,
+            "event": "Sriwijaya Air Flight 182 crashes north of Jakarta, Indonesia, killing all 62 people on board.",
+            "births": [],
+            "deaths": [
+                "John Reilly, American actor"
+            ]
+        },
+        {
+            "year": 2011,
+            "event": "Iran Air Flight 277 crashes near Urmia in the northwest of the country, in icy conditions, killing 77 people.",
+            "births": [],
+            "deaths": [
+                "Makinti Napanangka, Australian painter"
+            ]
         }
     ]
 }
