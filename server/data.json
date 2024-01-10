@@ -1,47 +1,49 @@
 {
-    "date": 1704776400000,
+    "date": 1704862800000,
     "rounds": [
         {
-            "year": 2014,
-            "event": "An explosion at a Mitsubishi Materials chemical plant in Yokkaichi, Japan, kills at least five people and injures 17 others.",
-            "births": [],
+            "year": 1920,
+            "event": "The Treaty of Versailles takes effect, officially ending World War I for all combatant nations except the United States.",
+            "births": [
+                "Rosella Hightower, American ballerina",
+                "Roberto M. Levingston, Argentinian general and politician, 36th President of Argentina"
+            ],
             "deaths": [
-                "Amiri Baraka, American poet, playwright, and academic",
-                "Josep Maria Castellet, Spanish poet and critic",
-                "Paul du Toit, South African painter and sculptor",
-                "Dale T. Mortensen, American economist and academic, Nobel Prize laureate"
+                "Sali Nivica, Albanian journalist and politician"
             ]
         },
         {
-            "year": 2005,
-            "event": "Mahmoud Abbas wins the election to succeed Yasser Arafat as President of the Palestinian National Authority, replacing interim president Rawhi Fattouh.",
+            "year": 1946,
+            "event": "The first General Assembly of the United Nations assembles in the Methodist Central Hall, Westminster. Fifty-one nations are represented.",
             "births": [],
-            "deaths": []
+            "deaths": [
+                "Matti Turkia, Finnish politician"
+            ]
         },
         {
-            "year": 1920,
-            "event": "Ukrainian War of Independence: The All-Ukrainian Central Executive Committee outlaws the Makhnovshchina by decree, igniting the Bolshevik–Makhnovist conflict.",
+            "year": 1980,
+            "event": "The New England Journal of Medicine publishes the letter Addiction Rare in Patients Treated with Narcotics, which is later misused to downplay the general risk of addiction to opioids.",
             "births": [
-                "Clive Dunn, English actor",
-                "Hakim Said, Pakistani scholar and politician, 20th Governor of Sindh"
+                "Sarah Shahi, American actress",
+                "Rastislav Staňa, Slovak ice hockey player"
             ],
             "deaths": []
         },
         {
-            "year": 2021,
-            "event": "Sriwijaya Air Flight 182 crashes north of Jakarta, Indonesia, killing all 62 people on board.",
+            "year": 1901,
+            "event": "New York: Automobile Club of America installs signs on major highways.",
             "births": [],
             "deaths": [
-                "John Reilly, American actor"
+                "James Dickson, English-Australian businessman and politician, 1st Australian Minister for Defence"
             ]
         },
         {
-            "year": 2011,
-            "event": "Iran Air Flight 277 crashes near Urmia in the northwest of the country, in icy conditions, killing 77 people.",
-            "births": [],
-            "deaths": [
-                "Makinti Napanangka, Australian painter"
-            ]
+            "year": 1985,
+            "event": "Sandinista Daniel Ortega becomes president of Nicaragua and vows to continue the transformation to socialism and alliance with the Soviet Union and Cuba; American policy continues to support the Contras in their revolt against the Nicaraguan government.",
+            "births": [
+                "Robert Nilsson, Canadian-Swedish ice hockey player"
+            ],
+            "deaths": []
         }
     ]
 }
