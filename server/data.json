@@ -1,48 +1,39 @@
 {
-    "date": 1704862800000,
+    "date": 1704949200000,
     "rounds": [
         {
-            "year": 1920,
-            "event": "The Treaty of Versailles takes effect, officially ending World War I for all combatant nations except the United States.",
+            "year": 1917,
+            "event": "The Kingsland munitions factory explosion occurs as a result of sabotage.",
             "births": [
-                "Rosella Hightower, American ballerina",
-                "Roberto M. Levingston, Argentinian general and politician, 36th President of Argentina"
-            ],
-            "deaths": [
-                "Sali Nivica, Albanian journalist and politician"
-            ]
-        },
-        {
-            "year": 1946,
-            "event": "The first General Assembly of the United Nations assembles in the Methodist Central Hall, Westminster. Fifty-one nations are represented.",
-            "births": [],
-            "deaths": [
-                "Matti Turkia, Finnish politician"
-            ]
-        },
-        {
-            "year": 1980,
-            "event": "The New England Journal of Medicine publishes the letter Addiction Rare in Patients Treated with Narcotics, which is later misused to downplay the general risk of addiction to opioids.",
-            "births": [
-                "Sarah Shahi, American actress",
-                "Rastislav Staňa, Slovak ice hockey player"
+                "John Robarts, Canadian lawyer and politician, 17th Premier of Ontario"
             ],
             "deaths": []
         },
         {
-            "year": 1901,
-            "event": "New York: Automobile Club of America installs signs on major highways.",
-            "births": [],
-            "deaths": [
-                "James Dickson, English-Australian businessman and politician, 1st Australian Minister for Defence"
-            ]
+            "year": 1959,
+            "event": "36 people are killed when Lufthansa Flight 502 crashes on approach to Rio de Janeiro/Galeão International Airport in Brazil.",
+            "births": [
+                "Brett Bodine, American NASCAR driver",
+                "Rob Ramage, Canadian ice hockey player and coach"
+            ],
+            "deaths": []
         },
         {
-            "year": 1985,
-            "event": "Sandinista Daniel Ortega becomes president of Nicaragua and vows to continue the transformation to socialism and alliance with the Soviet Union and Cuba; American policy continues to support the Contras in their revolt against the Nicaraguan government.",
-            "births": [
-                "Robert Nilsson, Canadian-Swedish ice hockey player"
-            ],
+            "year": 1943,
+            "event": "Italian-American anarchist Carlo Tresca is assassinated in New York City.",
+            "births": [],
+            "deaths": []
+        },
+        {
+            "year": 1935,
+            "event": "Amelia Earhart becomes the first person to fly solo from Hawaii to California.",
+            "births": [],
+            "deaths": []
+        },
+        {
+            "year": 1922,
+            "event": "Leonard Thompson becomes the first person to be injected with insulin.",
+            "births": [],
             "deaths": []
         }
     ]
