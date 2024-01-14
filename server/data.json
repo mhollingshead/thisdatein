@@ -1,53 +1,57 @@
 {
-    "date": 1705122000000,
+    "date": 1705208400000,
     "rounds": [
         {
-            "year": 1982,
-            "event": "Shortly after takeoff, Air Florida Flight 90, a Boeing 737 jet, crashes into Washington, D.C.'s 14th Street Bridge and falls into the Potomac River, killing 78 including four motorists.",
+            "year": 1954,
+            "event": "The Hudson Motor Car Company merges with Nash-Kelvinator Corporation forming the American Motors Corporation.",
             "births": [
-                "Kamran Akmal, Pakistani cricketer",
-                "Guillermo Coria, Argentinian tennis player",
-                "Constantinos Makrides, Cypriot footballer",
-                "Ruth Wilson, English actress"
-            ],
-            "deaths": [
-                "Marcel Camus, French director and screenwriter"
-            ]
-        },
-        {
-            "year": 1950,
-            "event": "British submarine HMS Truculent (P315) collides with an oil tanker in the Thames Estuary, killing 64 men.",
-            "births": [
-                "Clive Betts, English economist and politician",
-                "Bob Forsch, American baseball player",
-                "Gholam Hossein Mazloumi, Iranian footballer and manager"
+                "Jim Duggan, American professional wrestler"
             ],
             "deaths": []
         },
         {
-            "year": 1915,
-            "event": "The 6.7 Avezzano earthquake shakes the Province of L'Aquila in Italy with a maximum Mercalli intensity of XI (Extreme), killing between 29,978 and 32,610.",
-            "births": [],
+            "year": 1951,
+            "event": "National Airlines Flight 83 crashes during landing at Philadelphia International Airport, killing seven passengers and crew.",
+            "births": [
+                "Ron Behagen, American basketball player",
+                "O. Panneerselvam, Indian politician, 7th Chief Minister of Tamil Nadu"
+            ],
             "deaths": [
-                "Mary Slessor, Scottish-Nigerian missionary"
+                "Gregorios Xenopoulos, Greek author, journalist, and playwright"
             ]
         },
         {
-            "year": 1990,
-            "event": "Douglas Wilder becomes the first elected African American governor as he takes office as Governor of Virginia in Richmond, Virginia.",
+            "year": 1957,
+            "event": "Kripalu Maharaj is named fifth Jagadguru (world teacher) after giving seven days of speeches before 500 Hindu scholars.",
             "births": [
-                "Vincenzo Fiorillo, Italian footballer",
-                "Liam Hemsworth, Australian actor"
+                "Anchee Min, Chinese-American painter, photographer, and author"
             ],
-            "deaths": []
+            "deaths": [
+                "Humphrey Bogart, American actor"
+            ]
         },
         {
             "year": 1953,
-            "event": "An article appears in Pravda accusing some of the most prestigious and prominent doctors, mostly Jews, in the Soviet Union of taking part in a vast plot to poison members of the top Soviet political and military leadership.",
+            "event": "Josip Broz Tito is elected the first President of Yugoslavia.",
             "births": [
-                "Silvana Gallardo, American actress and producer"
+                "David Clary, English chemist and academic",
+                "Denzil Douglas, Caribbean educator and politician, 2nd Prime Minister of Saint Kitts and Nevis",
+                "Hans Westerhoff, Dutch biologist and academic"
             ],
             "deaths": []
+        },
+        {
+            "year": 1972,
+            "event": "Queen Margrethe II of Denmark ascends the throne, the first Queen of Denmark since 1412 and the first Danish monarch not named Frederik or Christian since 1513.",
+            "births": [
+                "Kyle Brady, American football player and sportscaster",
+                "Dion Forster, South African minister, theologian, and author",
+                "James Key, English engineer"
+            ],
+            "deaths": [
+                "Horst Assmy, German footballer",
+                "Frederik IX of Denmark"
+            ]
         }
     ]
 }
