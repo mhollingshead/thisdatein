@@ -1,48 +1,45 @@
 {
-    "date": 1705294800000,
+    "date": 1705381200000,
     "rounds": [
         {
-            "year": 1949,
-            "event": "Chinese Civil War: The Communist forces take over Tianjin from the Nationalist government.",
+            "year": 1909,
+            "event": "Ernest Shackleton's expedition finds the magnetic South Pole.",
             "births": [
-                "Luis Alvarado, Puerto Rican-American baseball player",
-                "Alasdair Liddell, English businessman",
-                "Ian Stewart, Scottish runner",
-                "Howard Twitty, American golfer"
+                "Clement Greenberg, American art critic"
             ],
             "deaths": []
         },
         {
-            "year": 2019,
-            "event": "Theresa May's UK government suffers the biggest government defeat in modern times, when 432 MPs voting against the proposed European Union withdrawal agreement, giving her opponents a majority of 230.",
-            "births": [],
-            "deaths": [
-                "Carol Channing, American actress",
-                "Ida Kleijnen, Dutch chef"
-            ]
-        },
-        {
-            "year": 1936,
-            "event": "The first building to be completely covered in glass, built for the Owens-Illinois Glass Company, is completed in Toledo, Ohio.",
-            "births": [],
-            "deaths": [
-                "Henry Forster, 1st Baron Forster, English cricketer and politician, seventh Governor-General of Australia"
-            ]
-        },
-        {
-            "year": 1975,
-            "event": "The Alvor Agreement is signed, ending the Angolan War of Independence and giving Angola independence from Portugal.",
+            "year": 1945,
+            "event": "World War II: Adolf Hitler moves into his underground bunker, the so-called Führerbunker.",
             "births": [
-                "Mary Pierce, Canadian-American tennis player and coach",
-                "Martin Štrbák, Slovak ice hockey player"
+                "Wim Suurbier, Dutch footballer and manager"
             ],
             "deaths": []
         },
         {
-            "year": 1910,
-            "event": "Construction ends on the Buffalo Bill Dam in Wyoming, United States, which was the highest dam in the world at the time, at 325 ft.",
+            "year": 2011,
+            "event": "Syrian civil war: The Movement for a Democratic Society (TEV-DEM) is established with the stated goal of re-organizing Syria along the lines of democratic confederalism.",
             "births": [],
             "deaths": []
+        },
+        {
+            "year": 1919,
+            "event": "Nebraska becomes the 36th state to approve the Eighteenth Amendment to the United States Constitution. With the necessary three-quarters of the states approving the amendment, Prohibition is constitutionally mandated in the United States one year later.",
+            "births": [
+                "Jerome Horwitz, American chemist and academic"
+            ],
+            "deaths": [
+                "Francisco de Paula Rodrigues Alves, Brazilian lawyer and politician, fifth President of Brazil"
+            ]
+        },
+        {
+            "year": 2020,
+            "event": "The first impeachment of Donald Trump formally moves into its trial phase in the United States Senate.",
+            "births": [],
+            "deaths": [
+                "Christopher Tolkien, British academic and editor"
+            ]
         }
     ]
 }
