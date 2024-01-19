@@ -1,46 +1,48 @@
 {
-    "date": 1705554000000,
+    "date": 1705640400000,
     "rounds": [
         {
-            "year": 1983,
-            "event": "The International Olympic Committee restores Jim Thorpe's Olympic medals to his family.",
+            "year": 1945,
+            "event": "World War II: Soviet forces liberate the Łódź Ghetto. Of more than 200,000 inhabitants in 1940, fewer than 900 had survived the Nazi occupation.",
             "births": [
-                "Amir Blumenfeld, Israeli-American comedian, actor, director, and screenwriter",
-                "Samantha Mumba, Irish singer-songwriter and actress"
+                "Trevor Williams, English singer-songwriter and bass player"
+            ],
+            "deaths": [
+                "Gustave Mesny, French general"
+            ]
+        },
+        {
+            "year": 1917,
+            "event": "Silvertown explosion: A blast at a munitions factory in London kills 73 and injures over 400. The resulting fire causes over £2,000,000 worth of damage.",
+            "births": [],
+            "deaths": []
+        },
+        {
+            "year": 1977,
+            "event": "President Gerald Ford pardons Iva Toguri D'Aquino (a.k.a. \"Tokyo Rose\").",
+            "births": [
+                "Benjamin Ayres, Canadian actor, director, and photographer"
             ],
             "deaths": []
         },
         {
-            "year": 2023,
-            "event": "A helicopter crash in Ukraine leaves 14 people dead, including the country's Interior Minister, Denys Monastyrsky.",
-            "births": [],
-            "deaths": [
-                "David Crosby, American singer-songwriter"
-            ]
-        },
-        {
-            "year": 1977,
-            "event": "Australia's worst rail disaster occurs at Granville, Sydney, killing 83.",
+            "year": 1920,
+            "event": "The United States Senate votes against joining the League of Nations.",
             "births": [
-                "Richard Archer, English singer-songwriter and guitarist"
+                "Bernard Dunstan, English painter and educator",
+                "Javier Pérez de Cuéllar, Peruvian politician and diplomat, 135th Prime Minister of Peru"
             ],
             "deaths": []
         },
         {
             "year": 2007,
-            "event": "The strongest storm in the United Kingdom in 17 years kills 14 people and Germany sees the worst storm since 1999 with 13 deaths. Cyclone Kyrill causes at least 44 deaths across 20 countries in Western Europe.",
+            "event": "Four-man Team N2i, using only skis and kites, completes a 1093 mi trek to reach the Antarctic pole of inaccessibility for the first time since 1965 and for the first time ever without mechanical assistance.",
             "births": [],
             "deaths": [
-                "Brent Liles, American bass player"
+                "Hrant Dink, Turkish-Armenian journalist and activist",
+                "Denny Doherty, Canadian singer-songwriter",
+                "Murat Nasyrov, Russian singer-songwriter"
             ]
-        },
-        {
-            "year": 1945,
-            "event": "World War II: Liberation of Kraków, Poland by the Red Army.",
-            "births": [
-                "Rocco Forte, English businessman and philanthropist"
-            ],
-            "deaths": []
         }
     ]
 }
