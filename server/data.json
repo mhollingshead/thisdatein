@@ -1,47 +1,52 @@
 {
-    "date": 1705640400000,
+    "date": 1705726800000,
     "rounds": [
         {
-            "year": 1945,
-            "event": "World War II: Soviet forces liberate the Łódź Ghetto. Of more than 200,000 inhabitants in 1940, fewer than 900 had survived the Nazi occupation.",
-            "births": [
-                "Trevor Williams, English singer-songwriter and bass player"
-            ],
+            "year": 1936,
+            "event": "King George V of the United Kingdom dies. His eldest son succeeds to the throne, becoming Edward VIII. The title Prince of Wales is not used for another 22 years.",
+            "births": [],
             "deaths": [
-                "Gustave Mesny, French general"
+                "George V of the United Kingdom"
             ]
         },
         {
-            "year": 1917,
-            "event": "Silvertown explosion: A blast at a munitions factory in London kills 73 and injures over 400. The resulting fire causes over £2,000,000 worth of damage.",
-            "births": [],
-            "deaths": []
-        },
-        {
-            "year": 1977,
-            "event": "President Gerald Ford pardons Iva Toguri D'Aquino (a.k.a. \"Tokyo Rose\").",
+            "year": 1986,
+            "event": "In the United States, Martin Luther King Jr. Day is celebrated as a federal holiday for the first time.",
             "births": [
-                "Benjamin Ayres, Canadian actor, director, and photographer"
+                "Kevin Parker, Australian singer, songwriter, musician, and producer"
             ],
             "deaths": []
         },
         {
-            "year": 1920,
-            "event": "The United States Senate votes against joining the League of Nations.",
-            "births": [
-                "Bernard Dunstan, English painter and educator",
-                "Javier Pérez de Cuéllar, Peruvian politician and diplomat, 135th Prime Minister of Peru"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 2007,
-            "event": "Four-man Team N2i, using only skis and kites, completes a 1093 mi trek to reach the Antarctic pole of inaccessibility for the first time since 1965 and for the first time ever without mechanical assistance.",
+            "year": 2009,
+            "event": "Barack Obama is inaugurated as the 44th President of the United States of America, becoming the first African-American President of the United States.",
             "births": [],
             "deaths": [
-                "Hrant Dink, Turkish-Armenian journalist and activist",
-                "Denny Doherty, Canadian singer-songwriter",
-                "Murat Nasyrov, Russian singer-songwriter"
+                "Stéphanos II Ghattas, Egyptian patriarch"
+            ]
+        },
+        {
+            "year": 1954,
+            "event": "In the United States, the National Negro Network is established with 40 charter member radio stations.",
+            "births": [
+                "Mohammad Dawran, Afghan aviator and military officer",
+                "Alison Seabeck, English lawyer and politician"
+            ],
+            "deaths": [
+                "Warren Bardsley, Australian cricketer",
+                "Fred Root, English cricketer and umpire"
+            ]
+        },
+        {
+            "year": 1973,
+            "event": "Amílcar Cabral, leader of the independence movement in Guinea-Bissau and Cape Verde, is assassinated in Conakry, Guinea.",
+            "births": [
+                "Stephen Crabb, Scottish-Welsh politician, Secretary of State for Wales",
+                "Queen Mathilde of Belgium"
+            ],
+            "deaths": [
+                "Lorenz Böhler, Austrian physician and surgeon",
+                "Amílcar Cabral, Guinea Bissauan-Cape Verdian engineer and politician"
             ]
         }
     ]
