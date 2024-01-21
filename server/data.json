@@ -1,53 +1,53 @@
 {
-    "date": 1705726800000,
+    "date": 1705813200000,
     "rounds": [
         {
-            "year": 1936,
-            "event": "King George V of the United Kingdom dies. His eldest son succeeds to the throne, becoming Edward VIII. The title Prince of Wales is not used for another 22 years.",
-            "births": [],
-            "deaths": [
-                "George V of the United Kingdom"
-            ]
-        },
-        {
-            "year": 1986,
-            "event": "In the United States, Martin Luther King Jr. Day is celebrated as a federal holiday for the first time.",
+            "year": 1941,
+            "event": "Sparked by the murder of a German officer in Bucharest, Romania the day before, members of the Iron Guard engaged in a rebellion and pogrom killing 125 Jews.",
             "births": [
-                "Kevin Parker, Australian singer, songwriter, musician, and producer"
+                "Sattam bin Abdulaziz Al Saud, Saudi Arabian prince",
+                "Plácido Domingo, Spanish tenor and conductor",
+                "Richie Havens, American singer-songwriter and guitarist",
+                "Mike Medavoy, Chinese-born American film producer, co-founded Orion Pictures",
+                "Ivan Putski, Polish-American wrestler and bodybuilder",
+                "Elaine Showalter, American author and critic"
             ],
             "deaths": []
         },
         {
-            "year": 2009,
-            "event": "Barack Obama is inaugurated as the 44th President of the United States of America, becoming the first African-American President of the United States.",
+            "year": 1999,
+            "event": "War on Drugs: In one of the largest drug busts in American history, the United States Coast Guard intercepts a ship with over 4300 kg of cocaine on board.",
+            "births": [
+                "Rubina Ali, Indian actress",
+                "Fūju Kamio, Japanese actor"
+            ],
+            "deaths": [
+                "Susan Strasberg, American actress"
+            ]
+        },
+        {
+            "year": 2005,
+            "event": "In Belmopan, Belize, the unrest over the government's new taxes erupts into riots.",
+            "births": [
+                "IShowSpeed, American YouTuber"
+            ],
+            "deaths": [
+                "Theun de Vries, Dutch author and poet",
+                "John L. Hess, American journalist and critic",
+                "Kaljo Raid, Estonian cellist, composer, and pastor"
+            ]
+        },
+        {
+            "year": 1908,
+            "event": "New York City passes the Sullivan Ordinance, making it illegal for women to smoke in public, only to have the measure vetoed by the mayor.",
             "births": [],
-            "deaths": [
-                "Stéphanos II Ghattas, Egyptian patriarch"
-            ]
+            "deaths": []
         },
         {
-            "year": 1954,
-            "event": "In the United States, the National Negro Network is established with 40 charter member radio stations.",
-            "births": [
-                "Mohammad Dawran, Afghan aviator and military officer",
-                "Alison Seabeck, English lawyer and politician"
-            ],
-            "deaths": [
-                "Warren Bardsley, Australian cricketer",
-                "Fred Root, English cricketer and umpire"
-            ]
-        },
-        {
-            "year": 1973,
-            "event": "Amílcar Cabral, leader of the independence movement in Guinea-Bissau and Cape Verde, is assassinated in Conakry, Guinea.",
-            "births": [
-                "Stephen Crabb, Scottish-Welsh politician, Secretary of State for Wales",
-                "Queen Mathilde of Belgium"
-            ],
-            "deaths": [
-                "Lorenz Böhler, Austrian physician and surgeon",
-                "Amílcar Cabral, Guinea Bissauan-Cape Verdian engineer and politician"
-            ]
+            "year": 2023,
+            "event": "Huu Can Tran, 72, opens fire in a dance studio in Monterey Park, California, killing eleven people and injuring nine others before later committing suicide. It is the worst mass shooting in Los Angeles County since the 2008 Covina massacre.",
+            "births": [],
+            "deaths": []
         }
     ]
 }
