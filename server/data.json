@@ -1,53 +1,54 @@
 {
-    "date": 1705813200000,
+    "date": 1705899600000,
     "rounds": [
         {
-            "year": 1941,
-            "event": "Sparked by the murder of a German officer in Bucharest, Romania the day before, members of the Iron Guard engaged in a rebellion and pogrom killing 125 Jews.",
+            "year": 1968,
+            "event": "Apollo Program: Apollo 5 lifts off carrying the first Lunar module into space.",
             "births": [
-                "Sattam bin Abdulaziz Al Saud, Saudi Arabian prince",
-                "Plácido Domingo, Spanish tenor and conductor",
-                "Richie Havens, American singer-songwriter and guitarist",
-                "Mike Medavoy, Chinese-born American film producer, co-founded Orion Pictures",
-                "Ivan Putski, Polish-American wrestler and bodybuilder",
-                "Elaine Showalter, American author and critic"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1999,
-            "event": "War on Drugs: In one of the largest drug busts in American history, the United States Coast Guard intercepts a ship with over 4300 kg of cocaine on board.",
-            "births": [
-                "Rubina Ali, Indian actress",
-                "Fūju Kamio, Japanese actor"
+                "Guy Fieri, American chef, author, and television host",
+                "Heath, Japanese singer-songwriter and bass player",
+                "Frank Leboeuf, French footballer, sportscaster, and actor",
+                "Mauricio Serna, Colombian footballer"
             ],
             "deaths": [
-                "Susan Strasberg, American actress"
+                "Duke Kahanamoku, American swimmer and water polo player"
             ]
         },
         {
-            "year": 2005,
-            "event": "In Belmopan, Belize, the unrest over the government's new taxes erupts into riots.",
+            "year": 1984,
+            "event": "The Apple Macintosh, the first consumer computer to popularize the computer mouse and the graphical user interface, is introduced during a Super Bowl XVIII television commercial.",
             "births": [
-                "IShowSpeed, American YouTuber"
+                "Ben Eager, Canadian ice hockey player",
+                "Ubaldo Jiménez, Dominican baseball player",
+                "Leon Powe, American basketball player",
+                "Maceo Rigters, Dutch footballer"
             ],
+            "deaths": []
+        },
+        {
+            "year": 1946,
+            "event": "Creation of the Central Intelligence Group, forerunner of the Central Intelligence Agency.",
+            "births": [
+                "Malcolm McLaren, English singer-songwriter and manager",
+                "Serge Savard, Canadian ice hockey player and manager"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1943,
+            "event": "World War II: Australian and American forces defeat Japanese army and navy units in the bitterly fought Battle of Buna–Gona.",
+            "births": [
+                "Michael Spicer, English journalist and politician"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 2009,
+            "event": "U.S. President Barack Obama signs an executive order to close the Guantanamo Bay detention camp; congressional opposition will prevent it being implemented.",
+            "births": [],
             "deaths": [
-                "Theun de Vries, Dutch author and poet",
-                "John L. Hess, American journalist and critic",
-                "Kaljo Raid, Estonian cellist, composer, and pastor"
+                "Billy Werber, American baseball player"
             ]
-        },
-        {
-            "year": 1908,
-            "event": "New York City passes the Sullivan Ordinance, making it illegal for women to smoke in public, only to have the measure vetoed by the mayor.",
-            "births": [],
-            "deaths": []
-        },
-        {
-            "year": 2023,
-            "event": "Huu Can Tran, 72, opens fire in a dance studio in Monterey Park, California, killing eleven people and injuring nine others before later committing suicide. It is the worst mass shooting in Los Angeles County since the 2008 Covina massacre.",
-            "births": [],
-            "deaths": []
         }
     ]
 }
