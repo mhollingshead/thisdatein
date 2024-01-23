@@ -1,54 +1,45 @@
 {
-    "date": 1705899600000,
+    "date": 1705986000000,
     "rounds": [
         {
-            "year": 1968,
-            "event": "Apollo Program: Apollo 5 lifts off carrying the first Lunar module into space.",
+            "year": 1987,
+            "event": "Mohammed Said Hersi Morgan sends a \"letter of death\" to Somali President Siad Barre, proposing the genocide of the Isaaq people.",
             "births": [
-                "Guy Fieri, American chef, author, and television host",
-                "Heath, Japanese singer-songwriter and bass player",
-                "Frank Leboeuf, French footballer, sportscaster, and actor",
-                "Mauricio Serna, Colombian footballer"
-            ],
-            "deaths": [
-                "Duke Kahanamoku, American swimmer and water polo player"
-            ]
-        },
-        {
-            "year": 1984,
-            "event": "The Apple Macintosh, the first consumer computer to popularize the computer mouse and the graphical user interface, is introduced during a Super Bowl XVIII television commercial.",
-            "births": [
-                "Ben Eager, Canadian ice hockey player",
-                "Ubaldo Jiménez, Dominican baseball player",
-                "Leon Powe, American basketball player",
-                "Maceo Rigters, Dutch footballer"
+                "Leo Komarov, Estonian-Finnish ice hockey player"
             ],
             "deaths": []
         },
         {
-            "year": 1946,
-            "event": "Creation of the Central Intelligence Group, forerunner of the Central Intelligence Agency.",
+            "year": 1912,
+            "event": "The International Opium Convention is signed at The Hague.",
             "births": [
-                "Malcolm McLaren, English singer-songwriter and manager",
-                "Serge Savard, Canadian ice hockey player and manager"
+                "Boris Pokrovsky, Russian director and manager"
             ],
             "deaths": []
         },
         {
-            "year": 1943,
-            "event": "World War II: Australian and American forces defeat Japanese army and navy units in the bitterly fought Battle of Buna–Gona.",
+            "year": 1960,
+            "event": "The bathyscaphe USS Trieste breaks a depth record by descending to 10911 m in the Pacific Ocean.",
             "births": [
-                "Michael Spicer, English journalist and politician"
+                "Greg Ritchie, Australian cricketer"
             ],
             "deaths": []
         },
         {
-            "year": 2009,
-            "event": "U.S. President Barack Obama signs an executive order to close the Guantanamo Bay detention camp; congressional opposition will prevent it being implemented.",
+            "year": 2018,
+            "event": "A 7.9 earthquake occurs in the Gulf of Alaska. It is tied as the sixth-largest earthquake ever recorded in the United States, but there are no reports of significant damage or fatalities.",
             "births": [],
             "deaths": [
-                "Billy Werber, American baseball player"
+                "Hugh Masekela, South African trumpeter, composer and singer",
+                "Nicanor Parra, Chilean poet",
+                "Wyatt Tee Walker, American civil rights activist and pastor"
             ]
+        },
+        {
+            "year": 1909,
+            "event": "RMS Republic (1903), a passenger ship of the White Star Line, becomes the first ship to use the CQD distress signal after colliding with another ship, the SS Florida, off the Massachusetts coastline, an event that kills six people. The Republic sinks the next day.",
+            "births": [],
+            "deaths": []
         }
     ]
 }
