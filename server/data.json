@@ -1,56 +1,45 @@
 {
-    "date": 1706072400000,
+    "date": 1706158800000,
     "rounds": [
         {
-            "year": 2003,
-            "event": "The United States Department of Homeland Security officially begins operation.",
-            "births": [
-                "Johnny Orlando, Canadian singer and songwriter"
-            ],
+            "year": 1993,
+            "event": "Five people are shot outside the CIA Headquarters in Langley, Virginia. Two are killed and three wounded.",
+            "births": [],
+            "deaths": []
+        },
+        {
+            "year": 2010,
+            "event": "Ethiopian Airlines Flight 409 crashes into the Mediterranean Sea off the coast of Na'ameh, Lebanon, killing 90.",
+            "births": [],
             "deaths": [
-                "Gianni Agnelli, Italian businessman"
+                "Ali Hassan al-Majid, Iraqi general and politician, Iraqi Minister of Defence"
             ]
         },
         {
-            "year": 1935,
-            "event": "Gottfried Krueger Brewing Company starts selling the first canned beer.",
+            "year": 1945,
+            "event": "World War II: The Battle of the Bulge ends.",
             "births": [
-                "Shivabalayogi, Indian religious leader"
+                "Byron Beck, American basketball player",
+                "Leigh Taylor-Young, American actress"
             ],
             "deaths": []
         },
         {
-            "year": 1942,
-            "event": "World War II: The Allies bombard Bangkok, leading Thailand, then under Japanese control, to declare war against the United States and United Kingdom.",
+            "year": 1947,
+            "event": "Thomas Goldsmith Jr. files a patent for a \"Cathode Ray Tube Amusement Device\", the first ever electronic game.",
             "births": [
-                "Ingo Friedrich, German Member of the European Parliament",
-                "Gary Hart, American wrestler and manager"
+                "Ángel Nieto, Spanish motorcycle racer",
+                "Tostão, Brazilian footballer, journalist, and physician"
             ],
+            "deaths": [
+                "Al Capone, American gangster and mob boss"
+            ]
+        },
+        {
+            "year": 1946,
+            "event": "The United Mine Workers rejoins the American Federation of Labor.",
+            "births": [],
             "deaths": []
-        },
-        {
-            "year": 1943,
-            "event": "World War II: Franklin D. Roosevelt and Winston Churchill conclude a conference in Casablanca.",
-            "births": [
-                "Barry Mealand, English footballer",
-                "Peter Struck, German lawyer and politician, 13th German Federal Minister of Defence",
-                "Sharon Tate, American model and actress",
-                "Tony Trimmer, English race car driver",
-                "Manuel Velázquez, Spanish footballer"
-            ],
-            "deaths": [
-                "John Burns, English trade union leader and politician, Secretary of State for Business, Innovation and Skills"
-            ]
-        },
-        {
-            "year": 1990,
-            "event": "Japan launches Hiten, the country's first lunar probe, the first robotic lunar probe since the Soviet Union's Luna 24 in 1976, and the first lunar probe launched by a country other than Soviet Union or the United States.",
-            "births": [
-                "Mao Abe, Japanese singer-songwriter and guitarist"
-            ],
-            "deaths": [
-                "Madge Bellamy, American actress"
-            ]
         }
     ]
 }
