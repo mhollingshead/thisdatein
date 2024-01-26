@@ -1,44 +1,48 @@
 {
-    "date": 1706158800000,
+    "date": 1706245200000,
     "rounds": [
         {
-            "year": 1993,
-            "event": "Five people are shot outside the CIA Headquarters in Langley, Virginia. Two are killed and three wounded.",
+            "year": 1942,
+            "event": "World War II: The first United States forces arrive in Europe, landing in Northern Ireland.",
             "births": [],
             "deaths": []
         },
         {
-            "year": 2010,
-            "event": "Ethiopian Airlines Flight 409 crashes into the Mediterranean Sea off the coast of Na'ameh, Lebanon, killing 90.",
-            "births": [],
-            "deaths": [
-                "Ali Hassan al-Majid, Iraqi general and politician, Iraqi Minister of Defence"
-            ]
-        },
-        {
-            "year": 1945,
-            "event": "World War II: The Battle of the Bulge ends.",
+            "year": 1991,
+            "event": "Mohamed Siad Barre is removed from power in Somalia, ending centralized government, and is succeeded by Ali Mahdi.",
             "births": [
-                "Byron Beck, American basketball player",
-                "Leigh Taylor-Young, American actress"
+                "Nicolò Melli, Italian-American basketball player",
+                "Manti Te'o, American football player"
             ],
             "deaths": []
         },
         {
-            "year": 1947,
-            "event": "Thomas Goldsmith Jr. files a patent for a \"Cathode Ray Tube Amusement Device\", the first ever electronic game.",
+            "year": 1934,
+            "event": "The Apollo Theater reopens in Harlem, New York City.",
             "births": [
-                "Ángel Nieto, Spanish motorcycle racer",
-                "Tostão, Brazilian footballer, journalist, and physician"
+                "Roger Landry, Canadian businessman and publisher",
+                "Charles Marowitz, American director, playwright, and critic",
+                "Huey \"Piano\" Smith, American pianist and songwriter",
+                "Bob Uecker, American baseball player, sportscaster and actor"
             ],
-            "deaths": [
-                "Al Capone, American gangster and mob boss"
-            ]
+            "deaths": []
         },
         {
-            "year": 1946,
-            "event": "The United Mine Workers rejoins the American Federation of Labor.",
-            "births": [],
+            "year": 1905,
+            "event": "The world's largest diamond ever, the Cullinan, which weighs 3106.75 carat, is found at the Premier Mine near Pretoria in South Africa.",
+            "births": [
+                "Charles Lane, American actor and singer",
+                "Maria von Trapp, Austrian-American singer"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1926,
+            "event": "The first demonstration of the television by John Logie Baird.",
+            "births": [
+                "Farman Fatehpuri, Pakistani linguist and scholar",
+                "Joseph Bacon Fraser, Jr., American architect and businessman, co-founded the Sea Pines Company"
+            ],
             "deaths": []
         }
     ]
