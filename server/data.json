@@ -1,59 +1,47 @@
 {
-    "date": 1706331600000,
+    "date": 1706418000000,
     "rounds": [
         {
-            "year": 2010,
-            "event": "Apple announces the iPad.",
-            "births": [],
-            "deaths": [
-                "Zelda Rubinstein, American actress",
-                "J. D. Salinger, American soldier and author",
-                "Howard Zinn, American historian, author, and activist"
-            ]
+            "year": 1933,
+            "event": "The name Pakistan is coined by Choudhry Rahmat Ali Khan and is accepted by Indian Muslims who then thereby adopted it further for the Pakistan Movement seeking independence.",
+            "births": [
+                "Jack Hill, American director and screenwriter"
+            ],
+            "deaths": []
         },
         {
-            "year": 1983,
-            "event": "The pilot shaft of the Seikan Tunnel, the world's longest sub-aqueous tunnel (53.85 km) between the Japanese islands of Honshū and Hokkaidō, breaks through.",
+            "year": 1920,
+            "event": "Foundation of the Spanish Legion.",
             "births": [
-                "Carlo Colaiacovo, Canadian ice hockey player",
-                "Paulo Colaiacovo, Canadian ice hockey player",
-                "Gavin Floyd, American baseball player",
-                "Lee Grant, English footballer"
+                "Lewis Wilson, American actor"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1909,
+            "event": "United States troops leave Cuba, with the exception of Guantanamo Bay Naval Base, after being there since the Spanish–American War.",
+            "births": [
+                "John Thomson, Scottish footballer"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1945,
+            "event": "World War II: Supplies begin to reach the Republic of China over the newly reopened Burma Road.",
+            "births": [
+                "Marthe Keller, Swiss actress and director"
             ],
             "deaths": [
-                "Louis de Funès, French actor and screenwriter"
+                "Roza Shanina, Russian sergeant and sniper"
             ]
         },
         {
-            "year": 1927,
-            "event": "Ibn Saud takes the title of King of Nejd.",
-            "births": [],
-            "deaths": [
-                "Jurgis Matulaitis-Matulevičius, Lithuanian bishop"
-            ]
-        },
-        {
-            "year": 1996,
-            "event": "Germany first observes the International Holocaust Remembrance Day.",
+            "year": 1941,
+            "event": "Franco-Thai War: Final air battle of the conflict. A Japanese-mediated armistice goes into effect later in the day.",
             "births": [
-                "Braeden Lemasters, American actor, musician, and singer"
+                "Joel Crothers, American actor"
             ],
-            "deaths": [
-                "Ralph Yarborough, American colonel, lawyer, and politician"
-            ]
-        },
-        {
-            "year": 1965,
-            "event": "South Vietnamese Prime Minister Trần Văn Hương is removed by the military junta of Nguyễn Khánh.",
-            "births": [
-                "Alan Cumming, Scottish-American actor",
-                "Mike Newell, English footballer and manager",
-                "Ignacio Noé, Argentinian author and illustrator",
-                "Attila Sekerlioglu, Austrian footballer and manager"
-            ],
-            "deaths": [
-                "Abraham Walkowitz, American painter"
-            ]
+            "deaths": []
         }
     ]
 }
