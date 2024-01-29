@@ -1,46 +1,38 @@
 {
-    "date": 1706418000000,
+    "date": 1706504400000,
     "rounds": [
         {
-            "year": 1933,
-            "event": "The name Pakistan is coined by Choudhry Rahmat Ali Khan and is accepted by Indian Muslims who then thereby adopted it further for the Pakistan Movement seeking independence.",
-            "births": [
-                "Jack Hill, American director and screenwriter"
-            ],
+            "year": 1907,
+            "event": "Charles Curtis of Kansas becomes the first Native American U.S. Senator.",
+            "births": [],
             "deaths": []
         },
         {
-            "year": 1920,
-            "event": "Foundation of the Spanish Legion.",
-            "births": [
-                "Lewis Wilson, American actor"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1909,
-            "event": "United States troops leave Cuba, with the exception of Guantanamo Bay Naval Base, after being there since the Spanish–American War.",
-            "births": [
-                "John Thomson, Scottish footballer"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1945,
-            "event": "World War II: Supplies begin to reach the Republic of China over the newly reopened Burma Road.",
-            "births": [
-                "Marthe Keller, Swiss actress and director"
-            ],
+            "year": 1959,
+            "event": "The first Melodifestivalen is held at Cirkus in Stockholm, Sweden.",
+            "births": [],
             "deaths": [
-                "Roza Shanina, Russian sergeant and sniper"
+                "Pauline Smith, South African novelist, short story writer, memoirist and playwright"
             ]
         },
         {
-            "year": 1941,
-            "event": "Franco-Thai War: Final air battle of the conflict. A Japanese-mediated armistice goes into effect later in the day.",
-            "births": [
-                "Joel Crothers, American actor"
-            ],
+            "year": 2020,
+            "event": "COVID-19 pandemic: The Trump administration establishes the White House Coronavirus Task Force under Secretary of Health and Human Services Alex Azar.",
+            "births": [],
+            "deaths": []
+        },
+        {
+            "year": 1944,
+            "event": "World War II: In Bologna, Italy, the Anatomical theatre of the Archiginnasio is completely destroyed in an air-raid.",
+            "births": [],
+            "deaths": [
+                "William Allen White, American journalist and author"
+            ]
+        },
+        {
+            "year": 1996,
+            "event": "President Jacques Chirac announces a \"definitive end\" to French nuclear weapons testing.",
+            "births": [],
             "deaths": []
         }
     ]
