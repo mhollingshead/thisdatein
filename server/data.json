@@ -1,38 +1,47 @@
 {
-    "date": 1706504400000,
+    "date": 1706590800000,
     "rounds": [
         {
-            "year": 1907,
-            "event": "Charles Curtis of Kansas becomes the first Native American U.S. Senator.",
-            "births": [],
+            "year": 1945,
+            "event": "World War II: Raid at Cabanatuan: One hundred and twenty-six American Rangers and Filipino resistance fighters liberate over 500 Allied prisoners from the Japanese-controlled Cabanatuan POW camp.",
+            "births": [
+                "Meir Dagan, Israeli military officer and intelligence official, Director of Mossad (2002–11)",
+                "Michael Dorris, American author and scholar"
+            ],
             "deaths": []
         },
         {
-            "year": 1959,
-            "event": "The first Melodifestivalen is held at Cirkus in Stockholm, Sweden.",
+            "year": 1948,
+            "event": "Following the assassination of Mahatma Gandhi in his home compound, India's prime minister, Jawaharlal Nehru, broadcasts to the nation, saying \"The light has gone out of our lives\".  The date of the assassination becomes observed as \"Martyrs' Day\" in India.",
             "births": [],
             "deaths": [
-                "Pauline Smith, South African novelist, short story writer, memoirist and playwright"
+                "Arthur Coningham, Australian air marshal",
+                "Mahatma Gandhi, leader of the Indian independence movement against British rule",
+                "Orville Wright, American pilot and engineer, co-founded the Wright Company"
             ]
         },
         {
-            "year": 2020,
-            "event": "COVID-19 pandemic: The Trump administration establishes the White House Coronavirus Task Force under Secretary of Health and Human Services Alex Azar.",
-            "births": [],
+            "year": 1964,
+            "event": "In a bloodless coup, General Nguyễn Khánh overthrows General Dương Văn Minh's military junta in South Vietnam.",
+            "births": [
+                "Otis Smith, American basketball player, coach, and manager"
+            ],
             "deaths": []
         },
         {
-            "year": 1944,
-            "event": "World War II: In Bologna, Italy, the Anatomical theatre of the Archiginnasio is completely destroyed in an air-raid.",
-            "births": [],
-            "deaths": [
-                "William Allen White, American journalist and author"
-            ]
+            "year": 1942,
+            "event": "World War II: Japanese forces invade the island of Ambon in the Dutch East Indies. Some 300 captured Allied troops are killed after the surrender. One-quarter of the remaining POWs remain alive at the end of the war.",
+            "births": [
+                "Marty Balin, American singer-songwriter and guitarist"
+            ],
+            "deaths": []
         },
         {
-            "year": 1996,
-            "event": "President Jacques Chirac announces a \"definitive end\" to French nuclear weapons testing.",
-            "births": [],
+            "year": 1956,
+            "event": "In the United States, Civil Rights Movement leader Martin Luther King Jr.'s home is bombed in retaliation for the Montgomery bus boycott.",
+            "births": [
+                "Ann Dowd, American actress"
+            ],
             "deaths": []
         }
     ]
