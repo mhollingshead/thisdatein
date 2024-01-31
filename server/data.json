@@ -1,47 +1,43 @@
 {
-    "date": 1706590800000,
+    "date": 1706677200000,
     "rounds": [
         {
-            "year": 1945,
-            "event": "World War II: Raid at Cabanatuan: One hundred and twenty-six American Rangers and Filipino resistance fighters liberate over 500 Allied prisoners from the Japanese-controlled Cabanatuan POW camp.",
-            "births": [
-                "Meir Dagan, Israeli military officer and intelligence official, Director of Mossad (2002–11)",
-                "Michael Dorris, American author and scholar"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1948,
-            "event": "Following the assassination of Mahatma Gandhi in his home compound, India's prime minister, Jawaharlal Nehru, broadcasts to the nation, saying \"The light has gone out of our lives\".  The date of the assassination becomes observed as \"Martyrs' Day\" in India.",
+            "year": 2018,
+            "event": "Both a blue moon and a total lunar eclipse occur.",
             "births": [],
             "deaths": [
-                "Arthur Coningham, Australian air marshal",
-                "Mahatma Gandhi, leader of the Indian independence movement against British rule",
-                "Orville Wright, American pilot and engineer, co-founded the Wright Company"
+                "Rasual Butler, American professional basketball player",
+                "Leah LaBelle, American singer"
             ]
         },
         {
-            "year": 1964,
-            "event": "In a bloodless coup, General Nguyễn Khánh overthrows General Dương Văn Minh's military junta in South Vietnam.",
+            "year": 1943,
+            "event": "World War II: German field marshal Friedrich Paulus surrenders to the Soviets at Stalingrad, followed two days later by the remainder of his Sixth Army, ending one of the war's fiercest battles.",
+            "births": [],
+            "deaths": []
+        },
+        {
+            "year": 2001,
+            "event": "Two Japan Airlines planes nearly collide over Suruga Bay in Japan.",
+            "births": [],
+            "deaths": [
+                "Gordon R. Dickson, Canadian American author"
+            ]
+        },
+        {
+            "year": 1945,
+            "event": "World War II: The end of fighting in the Battle of Hill 170 during the Burma Campaign, in which the British 3 Commando Brigade repulsed a Japanese counterattack on their positions and precipitated a general retirement from the Arakan Peninsula.",
             "births": [
-                "Otis Smith, American basketball player, coach, and manager"
+                "Rynn Berry, American historian and author",
+                "Brenda Hale, Baroness Hale of Richmond, English lawyer, judge, and academic",
+                "Joseph Kosuth, American sculptor and theorist"
             ],
             "deaths": []
         },
         {
-            "year": 1942,
-            "event": "World War II: Japanese forces invade the island of Ambon in the Dutch East Indies. Some 300 captured Allied troops are killed after the surrender. One-quarter of the remaining POWs remain alive at the end of the war.",
-            "births": [
-                "Marty Balin, American singer-songwriter and guitarist"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1956,
-            "event": "In the United States, Civil Rights Movement leader Martin Luther King Jr.'s home is bombed in retaliation for the Montgomery bus boycott.",
-            "births": [
-                "Ann Dowd, American actress"
-            ],
+            "year": 1901,
+            "event": "Anton Chekhov's Three Sisters premieres at Moscow Art Theatre in Russia.",
+            "births": [],
             "deaths": []
         }
     ]
