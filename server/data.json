@@ -1,44 +1,53 @@
 {
-    "date": 1706677200000,
+    "date": 1706763600000,
     "rounds": [
         {
-            "year": 2018,
-            "event": "Both a blue moon and a total lunar eclipse occur.",
-            "births": [],
+            "year": 1908,
+            "event": "Lisbon Regicide: King Carlos I of Portugal and Infante Luis Filipe are shot dead in Lisbon.",
+            "births": [
+                "George Pal, Hungarian-American animator and producer",
+                "Louis Rasminsky, Canadian economist and banker"
+            ],
             "deaths": [
-                "Rasual Butler, American professional basketball player",
-                "Leah LaBelle, American singer"
+                "Carlos I of Portugal"
             ]
         },
         {
-            "year": 1943,
-            "event": "World War II: German field marshal Friedrich Paulus surrenders to the Soviets at Stalingrad, followed two days later by the remainder of his Sixth Army, ending one of the war's fiercest battles.",
+            "year": 1924,
+            "event": "Russia–United Kingdom relations are restored, over six years after the Communist revolution.",
+            "births": [
+                "Richard Hooker, American novelist",
+                "Emmanuel Scheffer, German-Israeli footballer, coach, and manager"
+            ],
+            "deaths": [
+                "Maurice Prendergast, American painter"
+            ]
+        },
+        {
+            "year": 1998,
+            "event": "Rear Admiral Lillian E. Fishburne becomes the first female African American to be promoted to rear admiral.",
             "births": [],
             "deaths": []
         },
         {
-            "year": 2001,
-            "event": "Two Japan Airlines planes nearly collide over Suruga Bay in Japan.",
-            "births": [],
-            "deaths": [
-                "Gordon R. Dickson, Canadian American author"
-            ]
-        },
-        {
-            "year": 1945,
-            "event": "World War II: The end of fighting in the Battle of Hill 170 during the Burma Campaign, in which the British 3 Commando Brigade repulsed a Japanese counterattack on their positions and precipitated a general retirement from the Arakan Peninsula.",
+            "year": 1974,
+            "event": "A fire in the 25-story Joelma Building in São Paulo, Brazil kills 189 and injures 293.",
             "births": [
-                "Rynn Berry, American historian and author",
-                "Brenda Hale, Baroness Hale of Richmond, English lawyer, judge, and academic",
-                "Joseph Kosuth, American sculptor and theorist"
+                "Walter McCarty, American basketball player and coach"
             ],
             "deaths": []
         },
         {
-            "year": 1901,
-            "event": "Anton Chekhov's Three Sisters premieres at Moscow Art Theatre in Russia.",
-            "births": [],
-            "deaths": []
+            "year": 1968,
+            "event": "Vietnam War: The execution of Viet Cong officer Nguyễn Văn Lém by South Vietnamese National Police Chief Nguyễn Ngọc Loan is recorded on motion picture film, as well as in an iconic still photograph taken by Eddie Adams.",
+            "births": [
+                "Lisa Marie Presley, American singer-songwriter and actress",
+                "Mark Recchi, Canadian ice hockey player and coach",
+                "Pauly Shore, American actor and comedian"
+            ],
+            "deaths": [
+                "Echol Cole and Robert Walker - sparking the Memphis Sanitation Workers Strike"
+            ]
         }
     ]
 }
