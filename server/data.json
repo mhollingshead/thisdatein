@@ -1,53 +1,59 @@
 {
-    "date": 1706763600000,
+    "date": 1706850000000,
     "rounds": [
         {
-            "year": 1908,
-            "event": "Lisbon Regicide: King Carlos I of Portugal and Infante Luis Filipe are shot dead in Lisbon.",
-            "births": [
-                "George Pal, Hungarian-American animator and producer",
-                "Louis Rasminsky, Canadian economist and banker"
-            ],
-            "deaths": [
-                "Carlos I of Portugal"
-            ]
-        },
-        {
-            "year": 1924,
-            "event": "Russia–United Kingdom relations are restored, over six years after the Communist revolution.",
-            "births": [
-                "Richard Hooker, American novelist",
-                "Emmanuel Scheffer, German-Israeli footballer, coach, and manager"
-            ],
-            "deaths": [
-                "Maurice Prendergast, American painter"
-            ]
-        },
-        {
-            "year": 1998,
-            "event": "Rear Admiral Lillian E. Fishburne becomes the first female African American to be promoted to rear admiral.",
+            "year": 2004,
+            "event": "Swiss tennis player Roger Federer becomes the No. 1 ranked men's singles player, a position he will hold for a record 237 weeks.",
             "births": [],
-            "deaths": []
+            "deaths": [
+                "Bernard McEveety, American director and producer"
+            ]
         },
         {
-            "year": 1974,
-            "event": "A fire in the 25-story Joelma Building in São Paulo, Brazil kills 189 and injures 293.",
+            "year": 1935,
+            "event": "Leonarde Keeler administers polygraph tests to two murder suspects, the first time polygraph evidence was admitted in U.S. courts.",
             "births": [
-                "Walter McCarty, American basketball player and coach"
+                "Pete Brown, American golfer",
+                "Evgeny Velikhov, Russian physicist and academic"
             ],
             "deaths": []
         },
         {
-            "year": 1968,
-            "event": "Vietnam War: The execution of Viet Cong officer Nguyễn Văn Lém by South Vietnamese National Police Chief Nguyễn Ngọc Loan is recorded on motion picture film, as well as in an iconic still photograph taken by Eddie Adams.",
+            "year": 1942,
+            "event": "The Osvald Group is responsible for the first, active event of anti-Nazi resistance in Norway, to protest the inauguration of Vidkun Quisling.",
             "births": [
-                "Lisa Marie Presley, American singer-songwriter and actress",
-                "Mark Recchi, Canadian ice hockey player and coach",
-                "Pauly Shore, American actor and comedian"
+                "Bo Hopkins, American actor",
+                "Graham Nash, English-American singer-songwriter and guitarist"
             ],
             "deaths": [
-                "Echol Cole and Robert Walker - sparking the Memphis Sanitation Workers Strike"
+                "Ado Birk, Estonian lawyer and politician, 3rd Prime Minister of Estonia",
+                "Daniil Kharms, Russian poet and playwright",
+                "Hugh D. McIntosh, Australian businessman"
             ]
+        },
+        {
+            "year": 1954,
+            "event": "The Detroit Red Wings played in the first outdoor hockey game by any NHL team in an exhibition against the Marquette Branch Prison Pirates in Marquette, Michigan.",
+            "births": [
+                "Christie Brinkley, American actress, model, and businesswoman",
+                "Hansi Hinterseer, Austrian skier and actor",
+                "Nelson Ne'e, Solomon Islander politician",
+                "John Tudor, American baseball player"
+            ],
+            "deaths": [
+                "Hella Wuolijoki, Estonian-Finnish author and politician"
+            ]
+        },
+        {
+            "year": 1922,
+            "event": "The uprising called the \"pork mutiny\" starts in the region between Kuolajärvi and Savukoski in Finland.",
+            "births": [
+                "Kunwar Digvijay Singh, Indian field hockey player",
+                "Robert Chef d'Hôtel, French athlete",
+                "Stoyanka Mutafova, Bulgarian actress",
+                "James L. Usry, American politician, first African-American mayor of Atlantic City, New Jersey"
+            ],
+            "deaths": []
         }
     ]
 }
