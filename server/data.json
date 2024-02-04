@@ -1,55 +1,49 @@
 {
-    "date": 1706936400000,
+    "date": 1707022800000,
     "rounds": [
         {
-            "year": 1984,
-            "event": "Doctor John Buster and a research team at Harbor-UCLA Medical Center in the United States announce history's first embryo transfer, from one woman to another resulting in a live birth.",
-            "births": [
-                "Elizabeth Holmes, American fraudster, founder of Theranos",
-                "Matthew Moy, American actor"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1989,
-            "event": "A military coup overthrows Alfredo Stroessner, dictator of Paraguay since 1954.",
-            "births": [
-                "Jia, Chinese singer and actress",
-                "Slobodan Rajković, Serbian footballer"
-            ],
+            "year": 2000,
+            "event": "The World Summit Against Cancer for the New Millennium, Charter of Paris is signed by the President of France, Jacques Chirac and the Director General of UNESCO, Koichiro Matsuura, initiating World Cancer Day which is held on February 4 every year.",
+            "births": [],
             "deaths": [
-                "John Cassavetes, American actor, director, and screenwriter",
-                "Lionel Newman, American pianist, composer, and conductor"
+                "Carl Albert, American lawyer and politician, 54th Speaker of the United States House of Representatives"
             ]
         },
         {
-            "year": 1989,
-            "event": "After a stroke two weeks previously, South African President P. W. Botha resigns as leader of the National Party, but stays on as president for six more months.",
+            "year": 1941,
+            "event": "The United Service Organization (USO) is created to entertain American troops.",
             "births": [
-                "Jia, Chinese singer and actress",
-                "Slobodan Rajković, Serbian footballer"
+                "Russell Cooper, Australian politician, 33rd Premier of Queensland",
+                "Ron Rangi, New Zealand rugby player",
+                "Jiří Raška, Czech skier and coach",
+                "John Steel, English musician and songwriter"
             ],
+            "deaths": []
+        },
+        {
+            "year": 1974,
+            "event": "The Symbionese Liberation Army kidnaps Patty Hearst in Berkeley, California.",
+            "births": [],
             "deaths": [
-                "John Cassavetes, American actor, director, and screenwriter",
-                "Lionel Newman, American pianist, composer, and conductor"
+                "Satyendra Nath Bose, Indian physicist, mathematician, and academic"
             ]
         },
         {
-            "year": 1995,
-            "event": "Astronaut Eileen Collins becomes the first woman to pilot the Space Shuttle as mission STS-63 gets underway from Kennedy Space Center in Florida.",
+            "year": 1998,
+            "event": "The 5.9 Afghanistan earthquake shakes the Takhar Province with a maximum Mercalli intensity of VII (Very strong). With 2,323 killed, and 818 injured, damage is considered extreme.",
             "births": [
-                "Tao Tsuchiya, Japanese actress"
+                "Malik Monk, American basketball player",
+                "Maximilian Wöber, Austrian footballer"
             ],
             "deaths": []
         },
         {
-            "year": 1927,
-            "event": "A revolt against the military dictatorship of Portugal breaks out at Oporto.",
-            "births": [
-                "Kenneth Anger, American actor, director, and screenwriter",
-                "Blas Ople, Filipino journalist and politician, 21st President of the Senate of the Philippines"
-            ],
-            "deaths": []
+            "year": 1992,
+            "event": "A coup d'état is led by Hugo Chávez against Venezuelan President Carlos Andrés Pérez.",
+            "births": [],
+            "deaths": [
+                "John Dehner, American actor"
+            ]
         }
     ]
 }
