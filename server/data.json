@@ -1,48 +1,41 @@
 {
-    "date": 1707022800000,
+    "date": 1707109200000,
     "rounds": [
         {
+            "year": 1994,
+            "event": "Markale massacres, more than 60 people are killed and some 200 wounded as a mortar shell explodes in a downtown marketplace in Sarajevo.",
+            "births": [],
+            "deaths": []
+        },
+        {
+            "year": 1907,
+            "event": "Belgian chemist Leo Baekeland announces the creation of Bakelite, the world's first synthetic plastic.",
+            "births": [
+                "Birgit Dalland, Norwegian politician",
+                "Pierre Pflimlin, French politician, Prime Minister of France"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1945,
+            "event": "World War II: General Douglas MacArthur returns to Manila.",
+            "births": [],
+            "deaths": []
+        },
+        {
+            "year": 1981,
+            "event": "Operation Soap: The Metropolitan Toronto Police Force raids four gay bathhouses in Toronto, Ontario, Canada, arresting just under 300, triggering mass protest and rallies.",
+            "births": [],
+            "deaths": [
+                "Ella Grasso, American politician, 83rd Governor of Connecticut"
+            ]
+        },
+        {
             "year": 2000,
-            "event": "The World Summit Against Cancer for the New Millennium, Charter of Paris is signed by the President of France, Jacques Chirac and the Director General of UNESCO, Koichiro Matsuura, initiating World Cancer Day which is held on February 4 every year.",
+            "event": "Russian forces massacre at least 60 civilians in the Novye Aldi suburb of Grozny, Chechnya.",
             "births": [],
             "deaths": [
-                "Carl Albert, American lawyer and politician, 54th Speaker of the United States House of Representatives"
-            ]
-        },
-        {
-            "year": 1941,
-            "event": "The United Service Organization (USO) is created to entertain American troops.",
-            "births": [
-                "Russell Cooper, Australian politician, 33rd Premier of Queensland",
-                "Ron Rangi, New Zealand rugby player",
-                "Jiří Raška, Czech skier and coach",
-                "John Steel, English musician and songwriter"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1974,
-            "event": "The Symbionese Liberation Army kidnaps Patty Hearst in Berkeley, California.",
-            "births": [],
-            "deaths": [
-                "Satyendra Nath Bose, Indian physicist, mathematician, and academic"
-            ]
-        },
-        {
-            "year": 1998,
-            "event": "The 5.9 Afghanistan earthquake shakes the Takhar Province with a maximum Mercalli intensity of VII (Very strong). With 2,323 killed, and 818 injured, damage is considered extreme.",
-            "births": [
-                "Malik Monk, American basketball player",
-                "Maximilian Wöber, Austrian footballer"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1992,
-            "event": "A coup d'état is led by Hugo Chávez against Venezuelan President Carlos Andrés Pérez.",
-            "births": [],
-            "deaths": [
-                "John Dehner, American actor"
+                "Claude Autant-Lara, French director and screenwriter"
             ]
         }
     ]
