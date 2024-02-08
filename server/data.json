@@ -1,51 +1,42 @@
 {
-    "date": 1707282000000,
+    "date": 1707368400000,
     "rounds": [
         {
-            "year": 1951,
-            "event": "Korean War: More than 700 suspected communist sympathizers are massacred by South Korean forces.",
+            "year": 1904,
+            "event": "The Dutch Colonial Army's Marechaussee regiment led by General G.C.E. van Daalen launch a military campaign in the Dutch East Indies' Northern Sumatra region, leading to the deaths of thousands of civilians.",
             "births": [],
             "deaths": []
         },
         {
-            "year": 1962,
-            "event": "The United States bans all Cuban imports and exports.",
-            "births": [
-                "Garth Brooks, American singer-songwriter and guitarist",
-                "David Bryan, American keyboard player and songwriter",
-                "Eddie Izzard, English comedian, actor, and producer"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1974,
-            "event": "Grenada gains independence from the United Kingdom.",
-            "births": [
-                "J Dilla, American rapper and producer",
-                "Steve Nash, South African-Canadian basketball player",
-                "Nujabes, Japanese record producer, DJ, composer and arranger"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 2009,
-            "event": "Bushfires in Victoria leave 173 dead in the worst natural disaster in Australia's history.",
+            "year": 2014,
+            "event": "A hotel fire in Medina, Saudi Arabia, kills 15 Egyptian pilgrims with 130 others injured.",
             "births": [],
             "deaths": [
-                "Blossom Dearie, American singer and pianist"
+                "Els Borst, Dutch physician and politician, Deputy Prime Minister of the Netherlands",
+                "Maicon Pereira de Oliveira, Brazilian footballer",
+                "Nancy Holt, American sculptor and painter"
             ]
         },
         {
-            "year": 1979,
-            "event": "Pluto moves inside Neptune's orbit for the first time since either was discovered.",
+            "year": 1942,
+            "event": "World War II: Japan invades Singapore.",
             "births": [
-                "Daniel Bierofka, German footballer and coach",
-                "Tawakkol Karman, Yemeni journalist and activist, Nobel Prize laureate",
-                "Sam J. Miller, American author"
+                "Robert Klein, American comedian, actor, and singer",
+                "Terry Melcher, American singer-songwriter and producer"
             ],
-            "deaths": [
-                "Josef Mengele, German SS officer and physician"
-            ]
+            "deaths": []
+        },
+        {
+            "year": 1924,
+            "event": "The first state execution in the United States by gas chamber takes place in Nevada.",
+            "births": [],
+            "deaths": []
+        },
+        {
+            "year": 1904,
+            "event": "Japanese forces launch a surprise attack against Russian-controlled Port Arthur, marking the start of the Russo-Japanese war.",
+            "births": [],
+            "deaths": []
         }
     ]
 }
