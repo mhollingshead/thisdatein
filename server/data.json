@@ -1,42 +1,58 @@
 {
-    "date": 1707368400000,
+    "date": 1707454800000,
     "rounds": [
         {
-            "year": 1904,
-            "event": "The Dutch Colonial Army's Marechaussee regiment led by General G.C.E. van Daalen launch a military campaign in the Dutch East Indies' Northern Sumatra region, leading to the deaths of thousands of civilians.",
-            "births": [],
-            "deaths": []
-        },
-        {
-            "year": 2014,
-            "event": "A hotel fire in Medina, Saudi Arabia, kills 15 Egyptian pilgrims with 130 others injured.",
-            "births": [],
-            "deaths": [
-                "Els Borst, Dutch physician and politician, Deputy Prime Minister of the Netherlands",
-                "Maicon Pereira de Oliveira, Brazilian footballer",
-                "Nancy Holt, American sculptor and painter"
-            ]
-        },
-        {
-            "year": 1942,
-            "event": "World War II: Japan invades Singapore.",
+            "year": 1971,
+            "event": "Satchel Paige becomes the first Negro league player to be voted into the USA's Baseball Hall of Fame.",
             "births": [
-                "Robert Klein, American comedian, actor, and singer",
-                "Terry Melcher, American singer-songwriter and producer"
+                "Sharon Case, American actress and model",
+                "Matt Gogel, American golfer",
+                "Johan Mjällby, Swedish footballer and manager"
             ],
             "deaths": []
         },
         {
-            "year": 1924,
-            "event": "The first state execution in the United States by gas chamber takes place in Nevada.",
-            "births": [],
+            "year": 1982,
+            "event": "Japan Air Lines Flight 350 crashes near Haneda Airport in an attempted pilot mass murder-suicide, killing 24 of the 174 people on board.",
+            "births": [
+                "Domingo Cisma, Spanish footballer",
+                "Jameer Nelson, American basketball player",
+                "Ami Suzuki, Japanese singer-songwriter and actress",
+                "Chris Weale, English footballer and manager"
+            ],
             "deaths": []
         },
         {
-            "year": 1904,
-            "event": "Japanese forces launch a surprise attack against Russian-controlled Port Arthur, marking the start of the Russo-Japanese war.",
-            "births": [],
+            "year": 1943,
+            "event": "World War II: Pacific War: Allied authorities declare Guadalcanal secure after Imperial Japan evacuates its remaining forces from the island, ending the Battle of Guadalcanal.",
+            "births": [
+                "Barbara Lewis, American singer-songwriter",
+                "Joe Pesci, American actor",
+                "Joseph Stiglitz, American economist and academic, Nobel Prize laureate"
+            ],
             "deaths": []
+        },
+        {
+            "year": 1950,
+            "event": "Second Red Scare: US Senator Joseph McCarthy accuses the United States Department of State of being filled with Communists.",
+            "births": [
+                "Richard F. Colburn, American sergeant and politician"
+            ],
+            "deaths": [
+                "Ted Theodore, Australian politician, 20th Premier of Queensland"
+            ]
+        },
+        {
+            "year": 1932,
+            "event": "Prohibition law is abolished in Finland after a national referendum, where 70% voted for a repeal of the law.",
+            "births": [
+                "Tatsuro Hirooka, Japanese baseball player and manager",
+                "Gerhard Richter, German painter and photographer"
+            ],
+            "deaths": [
+                "Junnosuke Inoue, Japanese businessman and banker",
+                "A.K. Golam Jilani, Bangladeshi soldier and activist"
+            ]
         }
     ]
 }
