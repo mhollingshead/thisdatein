@@ -1,58 +1,52 @@
 {
-    "date": 1707454800000,
+    "date": 1707541200000,
     "rounds": [
         {
-            "year": 1971,
-            "event": "Satchel Paige becomes the first Negro league player to be voted into the USA's Baseball Hall of Fame.",
+            "year": 1996,
+            "event": "IBM supercomputer Deep Blue defeats Garry Kasparov in chess for the first time.",
             "births": [
-                "Sharon Case, American actress and model",
-                "Matt Gogel, American golfer",
-                "Johan Mjällby, Swedish footballer and manager"
+                "Alexandar Georgiev, Bulgarian-Russian ice hockey player",
+                "Emanuel Mammana, Argentine footballer"
             ],
             "deaths": []
         },
         {
-            "year": 1982,
-            "event": "Japan Air Lines Flight 350 crashes near Haneda Airport in an attempted pilot mass murder-suicide, killing 24 of the 174 people on board.",
+            "year": 1940,
+            "event": "The Soviet Union begins mass deportations of Polish citizens from occupied eastern Poland to Siberia.",
             "births": [
-                "Domingo Cisma, Spanish footballer",
-                "Jameer Nelson, American basketball player",
-                "Ami Suzuki, Japanese singer-songwriter and actress",
-                "Chris Weale, English footballer and manager"
+                "Mary Rand, English sprinter and long jumper",
+                "Kenny Rankin, American singer-songwriter"
             ],
             "deaths": []
         },
         {
-            "year": 1943,
-            "event": "World War II: Pacific War: Allied authorities declare Guadalcanal secure after Imperial Japan evacuates its remaining forces from the island, ending the Battle of Guadalcanal.",
-            "births": [
-                "Barbara Lewis, American singer-songwriter",
-                "Joe Pesci, American actor",
-                "Joseph Stiglitz, American economist and academic, Nobel Prize laureate"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1950,
-            "event": "Second Red Scare: US Senator Joseph McCarthy accuses the United States Department of State of being filled with Communists.",
-            "births": [
-                "Richard F. Colburn, American sergeant and politician"
-            ],
+            "year": 2013,
+            "event": "Thirty-six people are killed and 39 others are injured in a stampede in Allahabad, India, during the Kumbh Mela festival.",
+            "births": [],
             "deaths": [
-                "Ted Theodore, Australian politician, 20th Premier of Queensland"
+                "W. Watts Biggers, American author, screenwriter, and animator",
+                "David Hartman, American-Israeli rabbi and philosopher, founded the Shalom Hartman Institute"
             ]
         },
         {
-            "year": 1932,
-            "event": "Prohibition law is abolished in Finland after a national referendum, where 70% voted for a repeal of the law.",
+            "year": 1984,
+            "event": "Kenyan soldiers kill an estimated 5,000 ethnic Somali Kenyans in the Wagalla massacre.",
             "births": [
-                "Tatsuro Hirooka, Japanese baseball player and manager",
-                "Gerhard Richter, German painter and photographer"
+                "Greg Bird, Australian rugby league player",
+                "Alex Gordon, American baseball player",
+                "Kim Hyo-jin, South Korean actress",
+                "Zaza Pachulia, Georgian basketball player"
             ],
-            "deaths": [
-                "Junnosuke Inoue, Japanese businessman and banker",
-                "A.K. Golam Jilani, Bangladeshi soldier and activist"
-            ]
+            "deaths": []
+        },
+        {
+            "year": 1930,
+            "event": "The Việt Nam Quốc Dân Đảng launches the failed Yên Bái mutiny in hope of overthrowing French protectorate over Vietnam.",
+            "births": [
+                "E. L. Konigsburg, American author and illustrator",
+                "Robert Wagner, American actor and producer"
+            ],
+            "deaths": []
         }
     ]
 }
