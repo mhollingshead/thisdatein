@@ -1,50 +1,47 @@
 {
-    "date": 1707541200000,
+    "date": 1707627600000,
     "rounds": [
         {
-            "year": 1996,
-            "event": "IBM supercomputer Deep Blue defeats Garry Kasparov in chess for the first time.",
-            "births": [
-                "Alexandar Georgiev, Bulgarian-Russian ice hockey player",
-                "Emanuel Mammana, Argentine footballer"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1940,
-            "event": "The Soviet Union begins mass deportations of Polish citizens from occupied eastern Poland to Siberia.",
-            "births": [
-                "Mary Rand, English sprinter and long jumper",
-                "Kenny Rankin, American singer-songwriter"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 2013,
-            "event": "Thirty-six people are killed and 39 others are injured in a stampede in Allahabad, India, during the Kumbh Mela festival.",
+            "year": 2018,
+            "event": "Saratov Airlines Flight 703 crashes near Moscow, Russia with 71 deaths and no survivors.",
             "births": [],
             "deaths": [
-                "W. Watts Biggers, American author, screenwriter, and animator",
-                "David Hartman, American-Israeli rabbi and philosopher, founded the Shalom Hartman Institute"
+                "Vic Damone, American singer, songwriter and actor",
+                "Asma Jahangir, Pakistani human-rights lawyer and social activist",
+                "Jan Maxwell, American stage and television actress",
+                "Qazi Wajid, Pakistani drama actor, writer and artist"
             ]
         },
         {
-            "year": 1984,
-            "event": "Kenyan soldiers kill an estimated 5,000 ethnic Somali Kenyans in the Wagalla massacre.",
+            "year": 2008,
+            "event": "Rebel East Timorese soldiers seriously wound President José Ramos-Horta. Rebel leader Alfredo Reinado is killed in the attack.",
+            "births": [],
+            "deaths": [
+                "Tom Lantos, American lawyer and politician",
+                "Frank Piasecki, American engineer"
+            ]
+        },
+        {
+            "year": 1959,
+            "event": "The Federation of Arab Emirates of the South is created as a protectorate of the United Kingdom.",
             "births": [
-                "Greg Bird, Australian rugby league player",
-                "Alex Gordon, American baseball player",
-                "Kim Hyo-jin, South Korean actress",
-                "Zaza Pachulia, Georgian basketball player"
+                "Roberto Moreno, Brazilian race car driver"
             ],
             "deaths": []
         },
         {
-            "year": 1930,
-            "event": "The Việt Nam Quốc Dân Đảng launches the failed Yên Bái mutiny in hope of overthrowing French protectorate over Vietnam.",
+            "year": 1946,
+            "event": "The New Testament of the Revised Standard Version of the Bible, the first significant challenge to the Authorized King James Version, is published.",
             "births": [
-                "E. L. Konigsburg, American author and illustrator",
-                "Robert Wagner, American actor and producer"
+                "Ian Porterfield, Scottish footballer and manager"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1971,
+            "event": "Cold War: the Seabed Arms Control Treaty opened for signature outlawing nuclear weapons on the ocean floor in international waters.",
+            "births": [
+                "Damian Lewis, English actor"
             ],
             "deaths": []
         }
