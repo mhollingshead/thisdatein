@@ -1,50 +1,49 @@
 {
-    "date": 1707800400000,
+    "date": 1707886800000,
     "rounds": [
         {
-            "year": 1955,
-            "event": "Israel obtains four of the seven Dead Sea Scrolls.",
+            "year": 1966,
+            "event": "Australian currency is decimalized.",
             "births": [
-                "Joe Birkett, American lawyer, judge, and politician"
+                "Petr Svoboda, Czech ice hockey player and agent"
             ],
             "deaths": []
         },
         {
-            "year": 1981,
-            "event": "A series of sewer explosions destroys more than two miles of streets in Louisville, Kentucky.",
+            "year": 1990,
+            "event": "Ninety-two people are killed when Indian Airlines Flight 605 crashes in Bangalore, India.",
             "births": [
-                "Luisão, Brazilian footballer",
-                "Luke Ridnour, American basketball player"
+                "Chris Babb, American basketball player",
+                "Brett Dier, Canadian actor",
+                "Bogdan Kiselevich, Russian ice hockey player",
+                "Sefa Yılmaz, German-Turkish footballer"
             ],
             "deaths": []
         },
         {
-            "year": 1975,
-            "event": "Fire at One World Trade Center (North Tower) of the World Trade Center in New York.",
+            "year": 1961,
+            "event": "Discovery of the chemical elements: Element 103, Lawrencium, is first synthesized at the University of California.",
+            "births": [],
+            "deaths": []
+        },
+        {
+            "year": 1942,
+            "event": "World War II: Battle of Pasir Panjang contributes to the fall of Singapore.",
             "births": [
-                "Ben Collins, English race car driver",
-                "Katie Hopkins, English media personality and columnist"
+                "Michael Bloomberg, American businessman and politician, 108th Mayor of New York City",
+                "Andrew Robinson, American actor and director",
+                "Ricardo Rodríguez, Mexican racing driver"
             ],
             "deaths": [
-                "André Beaufre, French general"
+                "Adnan Saidi, Malayan lieutenant"
             ]
         },
         {
-            "year": 1955,
-            "event": "Twenty-nine people are killed when Sabena Flight 503 crashes into Monte Terminillo near Rieti, Italy.",
-            "births": [
-                "Joe Birkett, American lawyer, judge, and politician"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1954,
-            "event": "Frank Selvy becomes the only NCAA Division I basketball player ever to score 100 points in a single game.",
-            "births": [
-                "Donnie Moore, American baseball player"
-            ],
+            "year": 2005,
+            "event": "In Beirut, 23 people, including former Prime Minister Rafic Hariri, are killed when the equivalent of around 1,000 kg of TNT is detonated while Hariri's motorcade drives through the city.",
+            "births": [],
             "deaths": [
-                "Agnes Macphail, Canadian educator and politician"
+                "Rafic Hariri, Lebanese businessman and politician, 60th Prime Minister of Lebanon"
             ]
         }
     ]
