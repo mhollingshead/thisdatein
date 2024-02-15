@@ -1,49 +1,47 @@
 {
-    "date": 1707886800000,
+    "date": 1707973200000,
     "rounds": [
         {
-            "year": 1966,
-            "event": "Australian currency is decimalized.",
+            "year": 1945,
+            "event": "World War II: Third day of bombing in Dresden.",
             "births": [
-                "Petr Svoboda, Czech ice hockey player and agent"
+                "Jack Dann, American-Australian author and poet",
+                "Douglas Hofstadter, American author and academic"
             ],
             "deaths": []
         },
         {
-            "year": 1990,
-            "event": "Ninety-two people are killed when Indian Airlines Flight 605 crashes in Bangalore, India.",
+            "year": 1982,
+            "event": "The drilling rig Ocean Ranger sinks during a storm off the coast of Newfoundland, killing 84 workers.",
             "births": [
-                "Chris Babb, American basketball player",
-                "Brett Dier, Canadian actor",
-                "Bogdan Kiselevich, Russian ice hockey player",
-                "Sefa Yılmaz, German-Turkish footballer"
+                "Shameka Christon, American basketball player",
+                "James Yap, Filipino basketball player"
             ],
             "deaths": []
         },
         {
-            "year": 1961,
-            "event": "Discovery of the chemical elements: Element 103, Lawrencium, is first synthesized at the University of California.",
+            "year": 1949,
+            "event": "Gerald Lankester Harding and Roland de Vaux begin excavations at Cave 1 of the Qumran Caves, where they will eventually discover the first seven Dead Sea Scrolls.",
+            "births": [
+                "Ken Anderson, American football player"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1992,
+            "event": "Serial killer Jeffrey Dahmer is sentenced in Milwaukee to 15 terms of life in prison.",
             "births": [],
-            "deaths": []
-        },
-        {
-            "year": 1942,
-            "event": "World War II: Battle of Pasir Panjang contributes to the fall of Singapore.",
-            "births": [
-                "Michael Bloomberg, American businessman and politician, 108th Mayor of New York City",
-                "Andrew Robinson, American actor and director",
-                "Ricardo Rodríguez, Mexican racing driver"
-            ],
             "deaths": [
-                "Adnan Saidi, Malayan lieutenant"
+                "María Elena Moyano, Peruvian activist",
+                "William Schuman, American composer and academic"
             ]
         },
         {
-            "year": 2005,
-            "event": "In Beirut, 23 people, including former Prime Minister Rafic Hariri, are killed when the equivalent of around 1,000 kg of TNT is detonated while Hariri's motorcade drives through the city.",
+            "year": 1996,
+            "event": "At the Xichang Satellite Launch Center in China, a Long March 3B rocket, carrying an Intelsat 708, veers off course and crashes into a rural village after liftoff, killing somewhere between six and 100 people.",
             "births": [],
             "deaths": [
-                "Rafic Hariri, Lebanese businessman and politician, 60th Prime Minister of Lebanon"
+                "McLean Stevenson, American actor"
             ]
         }
     ]
