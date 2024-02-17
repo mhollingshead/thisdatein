@@ -1,46 +1,46 @@
 {
-    "date": 1708059600000,
+    "date": 1708146000000,
     "rounds": [
         {
-            "year": 1960,
-            "event": "The U.S. Navy submarine USS Triton (SSRN-586) begins Operation Sandblast, setting sail from New London, Connecticut, to begin the first submerged circumnavigation of the globe.",
+            "year": 1970,
+            "event": "Jeffrey R. MacDonald, United States Army captain, is charged with murder of his pregnant wife and two daughters.",
             "births": [
-                "Pete Willis, English guitarist and songwriter"
+                "Dominic Purcell, English-Australian actor and producer"
             ],
-            "deaths": []
-        },
-        {
-            "year": 2005,
-            "event": "The Kyoto Protocol comes into force, following its ratification by Russia.",
-            "births": [],
-            "deaths": []
-        },
-        {
-            "year": 1959,
-            "event": "Fidel Castro becomes Premier of Cuba after dictator Fulgencio Batista was overthrown on January 1.",
-            "births": [
-                "John McEnroe, American tennis player and sportscaster",
-                "Kelly Tripucka, American basketball player and sportscaster"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 2013,
-            "event": "A bomb blast at a market in Hazara Town, Quetta, Pakistan kills more than 80 people and injures 190 others.",
-            "births": [],
             "deaths": [
-                "Colin Edwards, Guyanese footballer",
-                "Grigory Pomerants, Russian philosopher and author",
-                "Tony Sheridan, English singer-songwriter and guitarist"
+                "Shmuel Yosef Agnon, Ukrainian-Israeli novelist, short story writer, and poet, Nobel Prize laureate",
+                "Alfred Newman, American composer and conductor"
             ]
         },
         {
-            "year": 1937,
-            "event": "Wallace H. Carothers receives a United States patent for nylon.",
+            "year": 1964,
+            "event": "Gabonese president Léon M'ba is toppled by a coup and his rival, Jean-Hilaire Aubame, is installed in his place.",
             "births": [
-                "Paul Bailey, British novelist, critic, and biographer",
-                "Valentin Bondarenko, Soviet aviator and cosmonaut",
-                "Yuri Manin, Russian-German mathematician and academic"
+                "Sherry Hawco, Canadian gymnast"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1995,
+            "event": "The Cenepa War between Peru and Ecuador ends on a ceasefire brokered by the UN.",
+            "births": [
+                "Madison Keys, American tennis player"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1944,
+            "event": "World War II: The Battle of Eniwetok begins. The battle ends in an American victory on February 22.",
+            "births": [
+                "Karl Jenkins, Welsh saxophonist, keyboard player, and composer"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1944,
+            "event": "World War II: Operation Hailstone begins: U.S. naval air, surface, and submarine attack against Truk Lagoon, Japan's main base in the central Pacific, in support of the Eniwetok invasion.",
+            "births": [
+                "Karl Jenkins, Welsh saxophonist, keyboard player, and composer"
             ],
             "deaths": []
         }
