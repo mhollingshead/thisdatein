@@ -1,46 +1,42 @@
 {
-    "date": 1708146000000,
+    "date": 1708232400000,
     "rounds": [
         {
-            "year": 1970,
-            "event": "Jeffrey R. MacDonald, United States Army captain, is charged with murder of his pregnant wife and two daughters.",
+            "year": 2001,
+            "event": "FBI agent Robert Hanssen is arrested for spying for the Soviet Union. He is ultimately convicted and sentenced to life imprisonment.",
             "births": [
-                "Dominic Purcell, English-Australian actor and producer"
+                "Jaime Jaquez Jr., American basketball player"
             ],
             "deaths": [
-                "Shmuel Yosef Agnon, Ukrainian-Israeli novelist, short story writer, and poet, Nobel Prize laureate",
-                "Alfred Newman, American composer and conductor"
+                "Balthus, Polish-Swiss painter and illustrator",
+                "Dale Earnhardt, American racer and NASCAR seven times champion"
             ]
         },
         {
-            "year": 1964,
-            "event": "Gabonese president Léon M'ba is toppled by a coup and his rival, Jean-Hilaire Aubame, is installed in his place.",
+            "year": 1932,
+            "event": "The Empire of Japan creates the independent state of Manzhouguo (the obsolete Chinese name for Manchuria) free from the Republic of China and installed former Chinese Emperor Aisin Gioro Puyi as Chief Executive of the State.",
             "births": [
-                "Sherry Hawco, Canadian gymnast"
+                "Miloš Forman, Czech-American actor, director, and screenwriter"
             ],
             "deaths": []
         },
         {
-            "year": 1995,
-            "event": "The Cenepa War between Peru and Ecuador ends on a ceasefire brokered by the UN.",
-            "births": [
-                "Madison Keys, American tennis player"
-            ],
+            "year": 1943,
+            "event": "World War II: Joseph Goebbels delivers his Sportpalast speech.",
+            "births": [],
             "deaths": []
         },
         {
-            "year": 1944,
-            "event": "World War II: The Battle of Eniwetok begins. The battle ends in an American victory on February 22.",
-            "births": [
-                "Karl Jenkins, Welsh saxophonist, keyboard player, and composer"
-            ],
+            "year": 1930,
+            "event": "While studying photographs taken in January, Clyde Tombaugh discovers Pluto.",
+            "births": [],
             "deaths": []
         },
         {
-            "year": 1944,
-            "event": "World War II: Operation Hailstone begins: U.S. naval air, surface, and submarine attack against Truk Lagoon, Japan's main base in the central Pacific, in support of the Eniwetok invasion.",
+            "year": 1947,
+            "event": "First Indochina War: The French gain complete control of Hanoi after forcing the Viet Minh to withdraw to mountains.",
             "births": [
-                "Karl Jenkins, Welsh saxophonist, keyboard player, and composer"
+                "Dennis DeYoung, American musician, singer, and songwriter"
             ],
             "deaths": []
         }
