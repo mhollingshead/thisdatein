@@ -1,51 +1,46 @@
 {
-    "date": 1708318800000,
+    "date": 1708405200000,
     "rounds": [
         {
-            "year": 2003,
-            "event": "An Ilyushin Il-76 military aircraft crashes near Kerman, Iran, killing 275.",
+            "year": 1944,
+            "event": "World War II: The United States takes Eniwetok Atoll.",
             "births": [
-                "Jakub Ojrzyński, Polish footballer"
-            ],
-            "deaths": [
-                "Johnny Paycheck, American singer-songwriter and guitarist"
-            ]
-        },
-        {
-            "year": 2002,
-            "event": "NASA's Mars Odyssey space probe begins to map the surface of Mars using its thermal emission imaging system.",
-            "births": [],
-            "deaths": [
-                "Sylvia Rivera, American transgender LGBT activist"
-            ]
-        },
-        {
-            "year": 1915,
-            "event": "World War I: The first naval attack on the Dardanelles begins when a strong Anglo-French task force bombards Ottoman artillery along the coast of Gallipoli.",
-            "births": [
-                "Dick Emery, English actor and comedian",
-                "John Freeman, English lawyer, politician, and diplomat, British Ambassador to the United States"
-            ],
-            "deaths": [
-                "Gopal Krishna Gokhale, Indian philosopher and politician"
-            ]
-        },
-        {
-            "year": 1978,
-            "event": "Egyptian forces raid Larnaca International Airport in an attempt to intervene in a hijacking, without authorisation from the Republic of Cyprus authorities. The Cypriot National Guard and Police forces kill 15 Egyptian commandos and destroy the Egyptian C-130 transport plane in open combat.",
-            "births": [
-                "Ben Gummer, English scholar and politician",
-                "Immortal Technique, Peruvian-American rapper"
+                "Robert de Cotret, Canadian economist and politician, 56th Secretary of State for Canada",
+                "Lew Soloff, American trumpet player, composer, and actor",
+                "Willem van Hanegem, Dutch footballer and coach"
             ],
             "deaths": []
         },
         {
-            "year": 1954,
-            "event": "Transfer of Crimea: The Soviet Politburo of the Soviet Union orders the transfer of the Crimean Oblast from the Russian SFSR to the Ukrainian SSR.",
+            "year": 2005,
+            "event": "Spain becomes the first country to vote in a referendum on ratification of the proposed Constitution of the European Union, passing it by a substantial margin, but on a low turnout.",
+            "births": [],
+            "deaths": [
+                "Sandra Dee, American actress",
+                "Josef Holeček, Czechoslovakian canoeist",
+                "John Raitt, American actor and singer",
+                "Hunter S. Thompson, American journalist and author"
+            ]
+        },
+        {
+            "year": 1931,
+            "event": "The U.S. Congress approves the construction of the San Francisco–Oakland Bay Bridge by the state of California.",
             "births": [
-                "Francis Buchholz, German bass player",
-                "Michael Gira, American singer-songwriter, guitarist, and producer",
-                "Sócrates, Brazilian footballer and manager"
+                "John Milnor, American mathematician and academic"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1952,
+            "event": "Emmett Ashford becomes the first African-American umpire in organized baseball by being authorized to be a substitute umpire in the Southwestern International League.",
+            "births": [],
+            "deaths": []
+        },
+        {
+            "year": 1962,
+            "event": "Mercury program: While aboard Friendship 7, John Glenn becomes the first American to orbit the Earth, making three orbits in four hours, 55 minutes.",
+            "births": [
+                "Dwayne McDuffie, American author, screenwriter, and producer, co-founded Milestone Media"
             ],
             "deaths": []
         }
