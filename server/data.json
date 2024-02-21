@@ -1,47 +1,47 @@
 {
-    "date": 1708405200000,
+    "date": 1708491600000,
     "rounds": [
         {
-            "year": 1944,
-            "event": "World War II: The United States takes Eniwetok Atoll.",
-            "births": [
-                "Robert de Cotret, Canadian economist and politician, 56th Secretary of State for Canada",
-                "Lew Soloff, American trumpet player, composer, and actor",
-                "Willem van Hanegem, Dutch footballer and coach"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 2005,
-            "event": "Spain becomes the first country to vote in a referendum on ratification of the proposed Constitution of the European Union, passing it by a substantial margin, but on a low turnout.",
+            "year": 1972,
+            "event": "United States President Richard Nixon visits China to normalize Sino-American relations.",
             "births": [],
             "deaths": [
-                "Sandra Dee, American actress",
-                "Josef Holeček, Czechoslovakian canoeist",
-                "John Raitt, American actor and singer",
-                "Hunter S. Thompson, American journalist and author"
+                "Zhang Guohua, Chinese general and politician",
+                "Bronislava Nijinska, Russian-American dancer and choreographer",
+                "Eugène Tisserant, French cardinal"
             ]
         },
         {
-            "year": 1931,
-            "event": "The U.S. Congress approves the construction of the San Francisco–Oakland Bay Bridge by the state of California.",
+            "year": 1925,
+            "event": "The New Yorker publishes its first issue.",
             "births": [
-                "John Milnor, American mathematician and academic"
+                "Sam Peckinpah, American director and screenwriter",
+                "Jack Ramsay, American basketball player, coach, and sportscaster"
             ],
             "deaths": []
         },
         {
-            "year": 1952,
-            "event": "Emmett Ashford becomes the first African-American umpire in organized baseball by being authorized to be a substitute umpire in the Southwestern International League.",
+            "year": 1937,
+            "event": "The League of Nations bans foreign national \"volunteers\" in the Spanish Civil War.",
+            "births": [
+                "Ron Clarke, Australian runner and politician, Mayor of the Gold Coast",
+                "Harald V of Norway",
+                "Gary Lockwood, American actor"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1975,
+            "event": "Watergate scandal: Former United States Attorney General John N. Mitchell and former White House aides H. R. Haldeman and John Ehrlichman are sentenced to prison.",
+            "births": [
+                "Scott Miller, Australian swimmer"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 2022,
+            "event": "In the Russo-Ukrainian crisis Russian President Vladimir Putin declares the Luhansk People's Republic and Donetsk People's Republic as independent from Ukraine, and moves troops into the region. The action is condemned by the United Nations.",
             "births": [],
-            "deaths": []
-        },
-        {
-            "year": 1962,
-            "event": "Mercury program: While aboard Friendship 7, John Glenn becomes the first American to orbit the Earth, making three orbits in four hours, 55 minutes.",
-            "births": [
-                "Dwayne McDuffie, American author, screenwriter, and producer, co-founded Milestone Media"
-            ],
             "deaths": []
         }
     ]
