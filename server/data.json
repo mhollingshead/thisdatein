@@ -1,47 +1,45 @@
 {
-    "date": 1708491600000,
+    "date": 1708578000000,
     "rounds": [
         {
-            "year": 1972,
-            "event": "United States President Richard Nixon visits China to normalize Sino-American relations.",
+            "year": 2011,
+            "event": "New Zealand's second deadliest earthquake strikes Christchurch, killing 185 people.",
+            "births": [],
+            "deaths": []
+        },
+        {
+            "year": 1974,
+            "event": "Samuel Byck attempts to hijack an aircraft at Baltimore/Washington International Airport with the intention of crashing it into the White House to assassinate Richard Nixon, but is killed by police.",
+            "births": [
+                "James Blunt, English singer-songwriter and guitarist",
+                "Chris Moyles, English radio and television host"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 2002,
+            "event": "Angolan political and rebel leader Jonas Savimbi is killed in a military ambush.",
             "births": [],
             "deaths": [
-                "Zhang Guohua, Chinese general and politician",
-                "Bronislava Nijinska, Russian-American dancer and choreographer",
-                "Eugène Tisserant, French cardinal"
+                "Chuck Jones, American animator, producer, and screenwriter",
+                "Jonas Savimbi, Angolan general, founded UNITA"
             ]
         },
         {
-            "year": 1925,
-            "event": "The New Yorker publishes its first issue.",
-            "births": [
-                "Sam Peckinpah, American director and screenwriter",
-                "Jack Ramsay, American basketball player, coach, and sportscaster"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1937,
-            "event": "The League of Nations bans foreign national \"volunteers\" in the Spanish Civil War.",
-            "births": [
-                "Ron Clarke, Australian runner and politician, Mayor of the Gold Coast",
-                "Harald V of Norway",
-                "Gary Lockwood, American actor"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1975,
-            "event": "Watergate scandal: Former United States Attorney General John N. Mitchell and former White House aides H. R. Haldeman and John Ehrlichman are sentenced to prison.",
-            "births": [
-                "Scott Miller, Australian swimmer"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 2022,
-            "event": "In the Russo-Ukrainian crisis Russian President Vladimir Putin declares the Luhansk People's Republic and Donetsk People's Republic as independent from Ukraine, and moves troops into the region. The action is condemned by the United Nations.",
+            "year": 2018,
+            "event": "A man throws a grenade at the U.S. embassy in Podgorica, Montenegro. He dies at the scene from a second explosion, with no one else hurt.",
             "births": [],
+            "deaths": [
+                "Forges, Spanish cartoonist"
+            ]
+        },
+        {
+            "year": 1979,
+            "event": "Saint Lucia gains independence from the United Kingdom.",
+            "births": [
+                "Brett Emerton, Australian footballer",
+                "Lee Na-young, South Korean actress"
+            ],
             "deaths": []
         }
     ]
