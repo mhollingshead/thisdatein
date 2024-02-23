@@ -1,44 +1,43 @@
 {
-    "date": 1708578000000,
+    "date": 1708664400000,
     "rounds": [
         {
-            "year": 2011,
-            "event": "New Zealand's second deadliest earthquake strikes Christchurch, killing 185 people.",
-            "births": [],
-            "deaths": []
-        },
-        {
-            "year": 1974,
-            "event": "Samuel Byck attempts to hijack an aircraft at Baltimore/Washington International Airport with the intention of crashing it into the White House to assassinate Richard Nixon, but is killed by police.",
+            "year": 1945,
+            "event": "World War II: The 11th Airborne Division, with Filipino guerrillas, free all 2,147 captives of the Los Baños internment camp, in what General Colin Powell later would refer to as \"the textbook airborne operation for all ages and all armies.\"",
             "births": [
-                "James Blunt, English singer-songwriter and guitarist",
-                "Chris Moyles, English radio and television host"
+                "Allan Boesak, South African cleric and politician"
             ],
             "deaths": []
         },
         {
-            "year": 2002,
-            "event": "Angolan political and rebel leader Jonas Savimbi is killed in a military ambush.",
-            "births": [],
-            "deaths": [
-                "Chuck Jones, American animator, producer, and screenwriter",
-                "Jonas Savimbi, Angolan general, founded UNITA"
-            ]
-        },
-        {
-            "year": 2018,
-            "event": "A man throws a grenade at the U.S. embassy in Podgorica, Montenegro. He dies at the scene from a second explosion, with no one else hurt.",
-            "births": [],
-            "deaths": [
-                "Forges, Spanish cartoonist"
-            ]
-        },
-        {
-            "year": 1979,
-            "event": "Saint Lucia gains independence from the United Kingdom.",
+            "year": 1945,
+            "event": "World War II: The capital of the Philippines, Manila, is liberated by combined Filipino and American forces.",
             "births": [
-                "Brett Emerton, Australian footballer",
-                "Lee Na-young, South Korean actress"
+                "Allan Boesak, South African cleric and politician"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1903,
+            "event": "Cuba leases Guantánamo Bay to the United States \"in perpetuity\".",
+            "births": [],
+            "deaths": []
+        },
+        {
+            "year": 1945,
+            "event": "World War II: During the Battle of Iwo Jima, a group of United States Marines reach the top of Mount Suribachi on the island and are photographed raising the American flag.",
+            "births": [
+                "Allan Boesak, South African cleric and politician"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1971,
+            "event": "Operation Lam Son 719: South Vietnamese General Do Cao Tri was killed in a helicopter crash en route to taking control of the faltering campaign.",
+            "births": [
+                "Carin Koch, Swedish golfer",
+                "Melinda Messenger, English model and television host",
+                "Joe-Max Moore, American soccer player"
             ],
             "deaths": []
         }
