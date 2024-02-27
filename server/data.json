@@ -1,44 +1,50 @@
 {
-    "date": 1708923600000,
+    "date": 1709010000000,
     "rounds": [
         {
-            "year": 1992,
-            "event": "First Nagorno-Karabakh War: Khojaly Massacre: Armenian armed forces open fire on Azeri civilians at a military post outside the town of Khojaly leaving hundreds dead.",
-            "births": [
-                "Mikael Granlund, Finnish hockey player"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1935,
-            "event": "Robert Watson-Watt carries out a demonstration near Daventry which leads directly to the development of radar in the United Kingdom.",
+            "year": 1916,
+            "event": "Ocean liner SS Maloja strikes a mine near Dover and sinks with the loss of 155 lives.",
             "births": [],
             "deaths": []
         },
         {
-            "year": 1909,
-            "event": "Kinemacolor, the first successful color motion picture process, is first shown to the general public at the Palace Theatre in London.",
+            "year": 1932,
+            "event": "The Mäntsälä rebellion begins when members of the far-right Lapua Movement start shooting at the social democrats' event in Mäntsälä, Finland.",
             "births": [
-                "Fanny Cradock, English chef, author, and critic",
-                "Talal of Jordan"
+                "Elizabeth Taylor, English-American actress and humanitarian",
+                "David Young, Baron Young of Graffham, English businessman and politician, Secretary of State for Business, Innovation and Skills"
             ],
             "deaths": []
         },
         {
-            "year": 2008,
-            "event": "The New York Philharmonic performs in Pyongyang, North Korea; this is the first event of its kind to take place in North Korea.",
+            "year": 2015,
+            "event": "Russian politician Boris Nemtsov is assassinated in Moscow while out walking with his girlfriend.",
             "births": [],
             "deaths": [
-                "Bodil Udsen, Danish actress"
+                "Boris Nemtsov, Russian academic and politician, First Deputy Prime Minister of Russia",
+                "Leonard Nimoy, American actor",
+                "Julio César Strassera, Argentinian lawyer and jurist"
             ]
         },
         {
-            "year": 1980,
-            "event": "Egypt and Israel establish full diplomatic relations.",
+            "year": 1939,
+            "event": "United States labor law: The U.S. Supreme Court rules in NLRB v. Fansteel Metallurgical Corp. that the National Labor Relations Board has no authority to force an employer to rehire workers who engage in sit-down strikes.",
             "births": [
-                "Steve Blake, American basketball player"
+                "Don McKinnon, English-New Zealand farmer and politician, 12th Deputy Prime Minister of New Zealand",
+                "Peter Revson, American race car driver"
             ],
             "deaths": []
+        },
+        {
+            "year": 2013,
+            "event": "A shooting takes place at a factory in Menznau, Switzerland, in which five people (including the perpetrator) are killed and five others injured.",
+            "births": [],
+            "deaths": [
+                "Van Cliburn, American pianist",
+                "Ramon Dekkers, Dutch mixed martial artist and kick-boxer",
+                "Dale Robertson, American actor",
+                "Adolfo Zaldívar, Chilean lawyer and politician"
+            ]
         }
     ]
 }
