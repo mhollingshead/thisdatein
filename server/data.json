@@ -1,50 +1,44 @@
 {
-    "date": 1709010000000,
+    "date": 1709096400000,
     "rounds": [
         {
-            "year": 1916,
-            "event": "Ocean liner SS Maloja strikes a mine near Dover and sinks with the loss of 155 lives.",
-            "births": [],
-            "deaths": []
-        },
-        {
-            "year": 1932,
-            "event": "The Mäntsälä rebellion begins when members of the far-right Lapua Movement start shooting at the social democrats' event in Mäntsälä, Finland.",
+            "year": 1922,
+            "event": "The United Kingdom ends its protectorate over Egypt through a Unilateral Declaration of Independence.",
             "births": [
-                "Elizabeth Taylor, English-American actress and humanitarian",
-                "David Young, Baron Young of Graffham, English businessman and politician, Secretary of State for Business, Innovation and Skills"
+                "Radu Câmpeanu, Romanian politician"
             ],
             "deaths": []
         },
         {
-            "year": 2015,
-            "event": "Russian politician Boris Nemtsov is assassinated in Moscow while out walking with his girlfriend.",
-            "births": [],
+            "year": 1993,
+            "event": "Bureau of Alcohol, Tobacco and Firearms (ATF) agents raid the Branch Davidian church in Waco, Texas with a warrant to arrest the group's leader David Koresh, starting a 51-day standoff.",
+            "births": [
+                "Marquis Teague, American basketball player"
+            ],
             "deaths": [
-                "Boris Nemtsov, Russian academic and politician, First Deputy Prime Minister of Russia",
-                "Leonard Nimoy, American actor",
-                "Julio César Strassera, Argentinian lawyer and jurist"
+                "Ruby Keeler, Canadian-American actress and dancer"
             ]
         },
         {
-            "year": 1939,
-            "event": "United States labor law: The U.S. Supreme Court rules in NLRB v. Fansteel Metallurgical Corp. that the National Labor Relations Board has no authority to force an employer to rehire workers who engage in sit-down strikes.",
-            "births": [
-                "Don McKinnon, English-New Zealand farmer and politician, 12th Deputy Prime Minister of New Zealand",
-                "Peter Revson, American race car driver"
-            ],
+            "year": 2002,
+            "event": "During the religious violence in Gujarat, 97 people are killed in the Naroda Patiya massacre and 69 in the Gulbarg Society massacre.",
+            "births": [],
+            "deaths": [
+                "Mary Stuart, American actress and singer",
+                "Helmut Zacharias, German violinist and composer"
+            ]
+        },
+        {
+            "year": 1959,
+            "event": "Discoverer 1, an American spy satellite that is the first object intended to achieve a polar orbit, is launched but fails to achieve orbit.",
+            "births": [],
             "deaths": []
         },
         {
-            "year": 2013,
-            "event": "A shooting takes place at a factory in Menznau, Switzerland, in which five people (including the perpetrator) are killed and five others injured.",
+            "year": 2023,
+            "event": "Two trains collide south of the Vale of Tempe in Greece, leading to the deaths of at least 57 people and leaving 58 missing and 85 injured.",
             "births": [],
-            "deaths": [
-                "Van Cliburn, American pianist",
-                "Ramon Dekkers, Dutch mixed martial artist and kick-boxer",
-                "Dale Robertson, American actor",
-                "Adolfo Zaldívar, Chilean lawyer and politician"
-            ]
+            "deaths": []
         }
     ]
 }
