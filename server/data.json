@@ -1,44 +1,64 @@
 {
-    "date": 1709096400000,
+    "date": 1709182800000,
     "rounds": [
         {
-            "year": 1922,
-            "event": "The United Kingdom ends its protectorate over Egypt through a Unilateral Declaration of Independence.",
+            "year": 1940,
+            "event": "In a ceremony held in Berkeley, California, physicist Ernest Lawrence receives the 1939 Nobel Prize in Physics from Sweden's consul general in San Francisco.",
             "births": [
-                "Radu Câmpeanu, Romanian politician"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1993,
-            "event": "Bureau of Alcohol, Tobacco and Firearms (ATF) agents raid the Branch Davidian church in Waco, Texas with a warrant to arrest the group's leader David Koresh, starting a 51-day standoff.",
-            "births": [
-                "Marquis Teague, American basketball player"
+                "Sonja Barend, Dutch talk show host"
             ],
             "deaths": [
-                "Ruby Keeler, Canadian-American actress and dancer"
+                "E. F. Benson, English archaeologist and author"
             ]
         },
         {
-            "year": 2002,
-            "event": "During the religious violence in Gujarat, 97 people are killed in the Naroda Patiya massacre and 69 in the Gulbarg Society massacre.",
-            "births": [],
+            "year": 1972,
+            "event": "South Korea withdraws 11,000 of its 48,000 troops from Vietnam as part of Nixon's Vietnamization policy in the Vietnam War.",
+            "births": [
+                "Sylvie Lubamba, Italian showgirl",
+                "Mike Pollitt, English footballer and coach",
+                "Antonio Sabàto Jr., Italian-American model and actor",
+                "Pedro Sánchez, Prime Minister of Spain",
+                "Dave Williams, American singer",
+                "Saul Williams, American singer-songwriter",
+                "Pedro Zamora, Cuban-American activist and educator"
+            ],
             "deaths": [
-                "Mary Stuart, American actress and singer",
-                "Helmut Zacharias, German violinist and composer"
+                "Tom Davies, American football player and coach"
             ]
         },
         {
-            "year": 1959,
-            "event": "Discoverer 1, an American spy satellite that is the first object intended to achieve a polar orbit, is launched but fails to achieve orbit.",
+            "year": 2008,
+            "event": "Misha Defonseca admits to fabricating her memoir, Misha: A Mémoire of the Holocaust Years, in which she claims to have lived with a pack of wolves in the woods during the Holocaust.",
             "births": [],
-            "deaths": []
+            "deaths": [
+                "Janet Kagan, American author",
+                "Erik Ortvad, Danish painter and illustrator",
+                "Akira Yamada, Japanese scholar and philosopher"
+            ]
         },
         {
-            "year": 2023,
-            "event": "Two trains collide south of the Vale of Tempe in Greece, leading to the deaths of at least 57 people and leaving 58 missing and 85 injured.",
+            "year": 1908,
+            "event": "James Madison University is founded at Harrisonburg, Virginia in the United States as The State Normal and Industrial School for Women by the Virginia General Assembly.",
+            "births": [
+                "Balthus, French-Swiss painter and illustrator",
+                "Dee Brown, American historian and author",
+                "Alf Gover, English cricketer and coach",
+                "Louie Myfanwy Thomas, Welsh writer"
+            ],
+            "deaths": [
+                "Pat Garrett, American sheriff",
+                "John Hope, 1st Marquess of Linlithgow, Scottish-Australian politician, 1st  Governor-General of Australia"
+            ]
+        },
+        {
+            "year": 2020,
+            "event": "During a demonstration, pro-government colectivos shoot at disputed President and Speaker of the National Assembly Juan Guaidó and his supporters in Barquisimeto, Venezuela, leaving five injured.",
             "births": [],
-            "deaths": []
+            "deaths": [
+                "Dieter Laser, German actor",
+                "Éva Székely, Hungarian Hall of Fame swimmer and 1952 Olympic champion"
+            ]
         }
     ]
 }
