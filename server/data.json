@@ -1,64 +1,45 @@
 {
-    "date": 1709182800000,
+    "date": 1709269200000,
     "rounds": [
         {
-            "year": 1940,
-            "event": "In a ceremony held in Berkeley, California, physicist Ernest Lawrence receives the 1939 Nobel Prize in Physics from Sweden's consul general in San Francisco.",
-            "births": [
-                "Sonja Barend, Dutch talk show host"
-            ],
-            "deaths": [
-                "E. F. Benson, English archaeologist and author"
-            ]
-        },
-        {
-            "year": 1972,
-            "event": "South Korea withdraws 11,000 of its 48,000 troops from Vietnam as part of Nixon's Vietnamization policy in the Vietnam War.",
-            "births": [
-                "Sylvie Lubamba, Italian showgirl",
-                "Mike Pollitt, English footballer and coach",
-                "Antonio Sabàto Jr., Italian-American model and actor",
-                "Pedro Sánchez, Prime Minister of Spain",
-                "Dave Williams, American singer",
-                "Saul Williams, American singer-songwriter",
-                "Pedro Zamora, Cuban-American activist and educator"
-            ],
-            "deaths": [
-                "Tom Davies, American football player and coach"
-            ]
-        },
-        {
-            "year": 2008,
-            "event": "Misha Defonseca admits to fabricating her memoir, Misha: A Mémoire of the Holocaust Years, in which she claims to have lived with a pack of wolves in the woods during the Holocaust.",
+            "year": 2006,
+            "event": "English-language Wikipedia reaches its one millionth article, Jordanhill railway station.",
             "births": [],
             "deaths": [
-                "Janet Kagan, American author",
-                "Erik Ortvad, Danish painter and illustrator",
-                "Akira Yamada, Japanese scholar and philosopher"
+                "Peter Osgood, English footballer",
+                "Jack Wild, English actor",
+                "Nurasyura binte Mohamed Fauzi, Singaporean rape and murder victim."
             ]
         },
         {
-            "year": 1908,
-            "event": "James Madison University is founded at Harrisonburg, Virginia in the United States as The State Normal and Industrial School for Women by the Virginia General Assembly.",
+            "year": 1954,
+            "event": "Nuclear weapons testing: The Castle Bravo, a 15-megaton hydrogen bomb, is detonated on Bikini Atoll in the Pacific Ocean, resulting in the worst radioactive contamination ever caused by the United States.",
             "births": [
-                "Balthus, French-Swiss painter and illustrator",
-                "Dee Brown, American historian and author",
-                "Alf Gover, English cricketer and coach",
-                "Louie Myfanwy Thomas, Welsh writer"
+                "Catherine Bach, American actress",
+                "Ron Howard, American actor, director, and producer"
             ],
-            "deaths": [
-                "Pat Garrett, American sheriff",
-                "John Hope, 1st Marquess of Linlithgow, Scottish-Australian politician, 1st  Governor-General of Australia"
-            ]
+            "deaths": []
         },
         {
-            "year": 2020,
-            "event": "During a demonstration, pro-government colectivos shoot at disputed President and Speaker of the National Assembly Juan Guaidó and his supporters in Barquisimeto, Venezuela, leaving five injured.",
+            "year": 2002,
+            "event": "U.S. invasion of Afghanistan: Operation Anaconda begins in eastern Afghanistan.",
             "births": [],
-            "deaths": [
-                "Dieter Laser, German actor",
-                "Éva Székely, Hungarian Hall of Fame swimmer and 1952 Olympic champion"
-            ]
+            "deaths": []
+        },
+        {
+            "year": 1964,
+            "event": "Paradise Airlines Flight 901A crashes near Lake Tahoe, Nevada, killing 85.",
+            "births": [],
+            "deaths": []
+        },
+        {
+            "year": 1956,
+            "event": "The International Air Transport Association finalizes a draft of the Radiotelephony spelling alphabet for the International Civil Aviation Organization.",
+            "births": [
+                "Tim Daly, American actor, director, and producer",
+                "Dalia Grybauskaitė, Lithuanian politician, 8th President of Lithuania"
+            ],
+            "deaths": []
         }
     ]
 }
