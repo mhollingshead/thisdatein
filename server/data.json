@@ -1,45 +1,59 @@
 {
-    "date": 1709269200000,
+    "date": 1709355600000,
     "rounds": [
         {
-            "year": 2006,
-            "event": "English-language Wikipedia reaches its one millionth article, Jordanhill railway station.",
-            "births": [],
+            "year": 1941,
+            "event": "World War II: First German military units enter Bulgaria after it joins the Axis Pact.",
+            "births": [
+                "John Cornell, Australian actor, director, and producer",
+                "David Satcher, American admiral and physician, 16th Surgeon General of the United States"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1970,
+            "event": "Rhodesia declares itself a republic, breaking its last links with the British crown.",
+            "births": [
+                "James Purnell, English politician, Secretary of State for Work and Pensions",
+                "Ciriaco Sforza, Swiss footballer and manager",
+                "Wibi Soerjadi, Dutch pianist and composer"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1919,
+            "event": "The first Communist International meets in Moscow.",
+            "births": [
+                "Jennifer Jones, American actress",
+                "Eddie Lawrence, American actor, singer, and playwright",
+                "Tamara Toumanova, Russian-American ballerina and actress"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1962,
+            "event": "In Burma, the army led by General Ne Win seizes power in a coup d'état.",
+            "births": [
+                "Jon Bon Jovi, American singer-songwriter, guitarist, producer, and actor",
+                "Paul Farrelly, English journalist and politician",
+                "Tom Nordlie, Norwegian footballer and coach",
+                "Brendan O'Connor, Australian politician, Australian Minister for Employment",
+                "Raimo Summanen, Finnish ice hockey player and coach",
+                "Gabriele Tarquini, Italian race car driver"
+            ],
             "deaths": [
-                "Peter Osgood, English footballer",
-                "Jack Wild, English actor",
-                "Nurasyura binte Mohamed Fauzi, Singaporean rape and murder victim."
+                "Charles Jean de la Vallée-Poussin, Belgian mathematician and academic"
             ]
         },
         {
-            "year": 1954,
-            "event": "Nuclear weapons testing: The Castle Bravo, a 15-megaton hydrogen bomb, is detonated on Bikini Atoll in the Pacific Ocean, resulting in the worst radioactive contamination ever caused by the United States.",
-            "births": [
-                "Catherine Bach, American actress",
-                "Ron Howard, American actor, director, and producer"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 2002,
-            "event": "U.S. invasion of Afghanistan: Operation Anaconda begins in eastern Afghanistan.",
+            "year": 2004,
+            "event": "War in Iraq: Al-Qaeda carries out the Ashoura Massacre in Iraq, killing 170 and wounding over 500.",
             "births": [],
-            "deaths": []
-        },
-        {
-            "year": 1964,
-            "event": "Paradise Airlines Flight 901A crashes near Lake Tahoe, Nevada, killing 85.",
-            "births": [],
-            "deaths": []
-        },
-        {
-            "year": 1956,
-            "event": "The International Air Transport Association finalizes a draft of the Radiotelephony spelling alphabet for the International Civil Aviation Organization.",
-            "births": [
-                "Tim Daly, American actor, director, and producer",
-                "Dalia Grybauskaitė, Lithuanian politician, 8th President of Lithuania"
-            ],
-            "deaths": []
+            "deaths": [
+                "Cormac McAnallen, Irish footballer",
+                "Mercedes McCambridge, American actress",
+                "Marge Schott, American businesswoman"
+            ]
         }
     ]
 }
