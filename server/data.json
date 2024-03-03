@@ -1,59 +1,43 @@
 {
-    "date": 1709355600000,
+    "date": 1709442000000,
     "rounds": [
         {
-            "year": 1941,
-            "event": "World War II: First German military units enter Bulgaria after it joins the Axis Pact.",
+            "year": 1924,
+            "event": "The Free State of Fiume is annexed by the Kingdom of Italy.",
             "births": [
-                "John Cornell, Australian actor, director, and producer",
-                "David Satcher, American admiral and physician, 16th Surgeon General of the United States"
+                "Tomiichi Murayama, Japanese soldier and politician, 52nd Prime Minister of Japan"
             ],
             "deaths": []
         },
         {
-            "year": 1970,
-            "event": "Rhodesia declares itself a republic, breaking its last links with the British crown.",
+            "year": 1939,
+            "event": "In Bombay, Mohandas Gandhi begins a hunger strike in protest at the autocratic rule in British India.",
             "births": [
-                "James Purnell, English politician, Secretary of State for Work and Pensions",
-                "Ciriaco Sforza, Swiss footballer and manager",
-                "Wibi Soerjadi, Dutch pianist and composer"
+                "Larry Burkett, American author and radio host",
+                "M. L. Jaisimha, Indian cricketer"
             ],
             "deaths": []
         },
         {
-            "year": 1919,
-            "event": "The first Communist International meets in Moscow.",
-            "births": [
-                "Jennifer Jones, American actress",
-                "Eddie Lawrence, American actor, singer, and playwright",
-                "Tamara Toumanova, Russian-American ballerina and actress"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1962,
-            "event": "In Burma, the army led by General Ne Win seizes power in a coup d'état.",
-            "births": [
-                "Jon Bon Jovi, American singer-songwriter, guitarist, producer, and actor",
-                "Paul Farrelly, English journalist and politician",
-                "Tom Nordlie, Norwegian footballer and coach",
-                "Brendan O'Connor, Australian politician, Australian Minister for Employment",
-                "Raimo Summanen, Finnish ice hockey player and coach",
-                "Gabriele Tarquini, Italian race car driver"
-            ],
-            "deaths": [
-                "Charles Jean de la Vallée-Poussin, Belgian mathematician and academic"
-            ]
-        },
-        {
-            "year": 2004,
-            "event": "War in Iraq: Al-Qaeda carries out the Ashoura Massacre in Iraq, killing 170 and wounding over 500.",
+            "year": 1931,
+            "event": "The United States adopts The Star-Spangled Banner as its national anthem.",
             "births": [],
-            "deaths": [
-                "Cormac McAnallen, Irish footballer",
-                "Mercedes McCambridge, American actress",
-                "Marge Schott, American businesswoman"
-            ]
+            "deaths": []
+        },
+        {
+            "year": 1944,
+            "event": "The Order of Nakhimov and Order of Ushakov are instituted in USSR as the highest naval awards.",
+            "births": [],
+            "deaths": []
+        },
+        {
+            "year": 1945,
+            "event": "World War II: In poor visibility, the RAF mistakenly bombs the Bezuidenhout area of The Hague, Netherlands, killing 511 people.",
+            "births": [
+                "George Miller, Australian director, producer, and screenwriter",
+                "Hattie Winston, American actress"
+            ],
+            "deaths": []
         }
     ]
 }
