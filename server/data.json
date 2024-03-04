@@ -1,41 +1,52 @@
 {
-    "date": 1709442000000,
+    "date": 1709528400000,
     "rounds": [
         {
-            "year": 1924,
-            "event": "The Free State of Fiume is annexed by the Kingdom of Italy.",
+            "year": 2015,
+            "event": "At least 34 miners die in a suspected gas explosion at the Zasyadko coal mine in the rebel-held Donetsk region of Ukraine.",
+            "births": [],
+            "deaths": [
+                "Dušan Bilandžić, Croatian historian and politician",
+                "Ray Hatton, English-American runner, author, and academic"
+            ]
+        },
+        {
+            "year": 1960,
+            "event": "The French freighter La Coubre explodes in Havana, Cuba, killing 100.",
             "births": [
-                "Tomiichi Murayama, Japanese soldier and politician, 52nd Prime Minister of Japan"
+                "Chonda Pierce, American comedian"
+            ],
+            "deaths": [
+                "Herbert O'Conor, American soldier, lawyer, and politician, 51st Governor of Maryland"
+            ]
+        },
+        {
+            "year": 1933,
+            "event": "Franklin D. Roosevelt becomes the 32nd President of the United States. He was the last president to be inaugurated on March 4.",
+            "births": [
+                "Nino Vaccarella, Italian racing driver"
             ],
             "deaths": []
         },
         {
-            "year": 1939,
-            "event": "In Bombay, Mohandas Gandhi begins a hunger strike in protest at the autocratic rule in British India.",
+            "year": 1933,
+            "event": "The Parliament of Austria is suspended because of a quibble over procedure",
             "births": [
-                "Larry Burkett, American author and radio host",
-                "M. L. Jaisimha, Indian cricketer"
+                "Nino Vaccarella, Italian racing driver"
             ],
             "deaths": []
         },
         {
-            "year": 1931,
-            "event": "The United States adopts The Star-Spangled Banner as its national anthem.",
-            "births": [],
-            "deaths": []
-        },
-        {
-            "year": 1944,
-            "event": "The Order of Nakhimov and Order of Ushakov are instituted in USSR as the highest naval awards.",
-            "births": [],
-            "deaths": []
-        },
-        {
-            "year": 1945,
-            "event": "World War II: In poor visibility, the RAF mistakenly bombs the Bezuidenhout area of The Hague, Netherlands, killing 511 people.",
+            "year": 1966,
+            "event": "In an interview in the London Evening Standard, The Beatles' John Lennon declares that the band is \"more popular than Jesus now\".",
             "births": [
-                "George Miller, Australian director, producer, and screenwriter",
-                "Hattie Winston, American actress"
+                "Emese Hunyady, Hungarian speed skater",
+                "Kevin Johnson, American basketball player and politician, 55th Mayor of Sacramento",
+                "Fiona Ma, American accountant and politician",
+                "Helmut Mayer, Austrian skier",
+                "Dav Pilkey, American author and illustrator",
+                "Grand Puba, American rapper",
+                "Mike Small, American golfer and coach"
             ],
             "deaths": []
         }
