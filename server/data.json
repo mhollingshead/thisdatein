@@ -1,54 +1,53 @@
 {
-    "date": 1709528400000,
+    "date": 1709614800000,
     "rounds": [
         {
-            "year": 2015,
-            "event": "At least 34 miners die in a suspected gas explosion at the Zasyadko coal mine in the rebel-held Donetsk region of Ukraine.",
+            "year": 2021,
+            "event": "Pope Francis begins a historical visit to Iraq amidst the COVID-19 pandemic.",
             "births": [],
-            "deaths": [
-                "Dušan Bilandžić, Croatian historian and politician",
-                "Ray Hatton, English-American runner, author, and academic"
-            ]
+            "deaths": []
         },
         {
             "year": 1960,
-            "event": "The French freighter La Coubre explodes in Havana, Cuba, killing 100.",
+            "event": "Indonesian President Sukarno dismissed the Dewan Perwakilan Rakyat (DPR), 1955 democratically elected parliament, and replaced with DPR-GR, the parliament of his own selected members.",
             "births": [
-                "Chonda Pierce, American comedian"
+                "Paul Drayson, Baron Drayson, English businessman and politician, Minister for Defence Equipment, Support and Technology",
+                "Mike Munchak, American football player and coach"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1944,
+            "event": "World War II: The Red Army begins the Uman–Botoșani Offensive in the western Ukrainian SSR.",
+            "births": [
+                "Peter Brandes, Danish painter and sculptor",
+                "Roy Gutman, American journalist and author"
             ],
             "deaths": [
-                "Herbert O'Conor, American soldier, lawyer, and politician, 51st Governor of Maryland"
+                "Max Jacob, French poet and author"
             ]
         },
         {
-            "year": 1933,
-            "event": "Franklin D. Roosevelt becomes the 32nd President of the United States. He was the last president to be inaugurated on March 4.",
+            "year": 1978,
+            "event": "The Landsat 3 is launched from Vandenberg Air Force Base in California.",
             "births": [
-                "Nino Vaccarella, Italian racing driver"
+                "Jared Crouch, Australian footballer",
+                "Mike Hessman, American baseball player and coach",
+                "Kimberly McCullough, American actress, singer, and dancer",
+                "Carlos Ochoa, Mexican footballer"
             ],
             "deaths": []
         },
         {
-            "year": 1933,
-            "event": "The Parliament of Austria is suspended because of a quibble over procedure",
+            "year": 1942,
+            "event": "World War II: Japanese forces capture Batavia, capital of Dutch East Indies, which is left undefended after the withdrawal of the KNIL garrison and Australian Blackforce battalion to Buitenzorg and Bandung.",
             "births": [
-                "Nino Vaccarella, Italian racing driver"
+                "Felipe González, Spanish lawyer and politician, Prime Minister of Spain",
+                "Mike Resnick, American author and editor"
             ],
-            "deaths": []
-        },
-        {
-            "year": 1966,
-            "event": "In an interview in the London Evening Standard, The Beatles' John Lennon declares that the band is \"more popular than Jesus now\".",
-            "births": [
-                "Emese Hunyady, Hungarian speed skater",
-                "Kevin Johnson, American basketball player and politician, 55th Mayor of Sacramento",
-                "Fiona Ma, American accountant and politician",
-                "Helmut Mayer, Austrian skier",
-                "Dav Pilkey, American author and illustrator",
-                "Grand Puba, American rapper",
-                "Mike Small, American golfer and coach"
-            ],
-            "deaths": []
+            "deaths": [
+                "George Plant Executed Irish Republican"
+            ]
         }
     ]
 }
