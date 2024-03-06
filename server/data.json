@@ -1,52 +1,62 @@
 {
-    "date": 1709614800000,
+    "date": 1709701200000,
     "rounds": [
         {
-            "year": 2021,
-            "event": "Pope Francis begins a historical visit to Iraq amidst the COVID-19 pandemic.",
+            "year": 1933,
+            "event": "Great Depression: President Franklin D. Roosevelt declares a \"bank holiday\", closing all U.S. banks and freezing all financial transactions.",
+            "births": [
+                "Ted Abernathy, American baseball player",
+                "William Davis, German-English journalist and economist",
+                "Augusto Odone, Italian economist and inventor of Lorenzo's oil"
+            ],
+            "deaths": [
+                "Anton Cermak, Czech-American lawyer and politician, 44th Mayor of Chicago"
+            ]
+        },
+        {
+            "year": 1987,
+            "event": "The British ferry MS Herald of Free Enterprise capsizes in about 90 seconds, killing 193.",
+            "births": [
+                "Mário Bližňák, Slovak ice hockey player",
+                "Kevin-Prince Boateng, Ghanaian-German footballer",
+                "Chico Flores, Spanish footballer"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 2020,
+            "event": "Thirty-two people are killed and 81 are injured when gunmen open fire on a ceremony in Kabul, Afghanistan. The Islamic State claims responsibility for the attack.",
             "births": [],
             "deaths": []
         },
         {
-            "year": 1960,
-            "event": "Indonesian President Sukarno dismissed the Dewan Perwakilan Rakyat (DPR), 1955 democratically elected parliament, and replaced with DPR-GR, the parliament of his own selected members.",
+            "year": 1984,
+            "event": "In the United Kingdom, a walkout at Cortonwood Colliery in Brampton Bierlow signals the start of a strike that lasted almost a year and involved the majority of the country's miners.",
             "births": [
-                "Paul Drayson, Baron Drayson, English businessman and politician, Minister for Defence Equipment, Support and Technology",
-                "Mike Munchak, American football player and coach"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1944,
-            "event": "World War II: The Red Army begins the Uman–Botoșani Offensive in the western Ukrainian SSR.",
-            "births": [
-                "Peter Brandes, Danish painter and sculptor",
-                "Roy Gutman, American journalist and author"
+                "Daniël de Ridder, Dutch footballer",
+                "Eskil Pedersen, Norwegian politician",
+                "Chris Tomson, American drummer"
             ],
             "deaths": [
-                "Max Jacob, French poet and author"
+                "Billy Collins Jr., American boxer",
+                "Martin Niemöller, German pastor and theologian",
+                "Homer N. Wallin, American admiral",
+                "Henry Wilcoxon, Dominican-American actor and producer"
             ]
         },
         {
-            "year": 1978,
-            "event": "The Landsat 3 is launched from Vandenberg Air Force Base in California.",
+            "year": 1967,
+            "event": "Cold War: Joseph Stalin's daughter Svetlana Alliluyeva defects to the United States.",
             "births": [
-                "Jared Crouch, Australian footballer",
-                "Mike Hessman, American baseball player and coach",
-                "Kimberly McCullough, American actress, singer, and dancer",
-                "Carlos Ochoa, Mexican footballer"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1942,
-            "event": "World War II: Japanese forces capture Batavia, capital of Dutch East Indies, which is left undefended after the withdrawal of the KNIL garrison and Australian Blackforce battalion to Buitenzorg and Bandung.",
-            "births": [
-                "Felipe González, Spanish lawyer and politician, Prime Minister of Spain",
-                "Mike Resnick, American author and editor"
+                "Julio Bocca, Argentine ballet dancer and director",
+                "Connie Britton, American actress",
+                "Glenn Greenwald, American journalist and author",
+                "Shuler Hensley, American actor and singer"
             ],
             "deaths": [
-                "George Plant Executed Irish Republican"
+                "John Haden Badley, English author and educator, founded the Bedales School",
+                "Nelson Eddy, American actor and singer",
+                "Zoltán Kodály, Hungarian composer, linguist, and philosopher"
             ]
         }
     ]
