@@ -1,43 +1,54 @@
 {
-    "date": 1709874000000,
+    "date": 1709960400000,
     "rounds": [
         {
-            "year": 1965,
-            "event": "Vietnam War: US Marines arrive at Da Nang.",
+            "year": 1977,
+            "event": "The Hanafi Siege: In a 39-hour standoff, armed Hanafi Muslims seize three Washington, D.C., buildings.",
             "births": [
-                "Kenny Smith, American basketball player and sportscaster"
+                "Radek Dvořák, Czech ice hockey player"
             ],
             "deaths": []
         },
         {
-            "year": 1979,
-            "event": "Images taken by Voyager 1 proved the existence of volcanoes on Io, a moon of Jupiter.",
+            "year": 1946,
+            "event": "Bolton Wanderers stadium disaster at Burnden Park, Bolton, England, kills 33 and injures hundreds more.",
             "births": [
-                "Tom Chaplin, English singer-songwriter and musician"
+                "Alexandra Bastedo, English actress",
+                "Bernd Hölzenbein, German footballer and scout",
+                "Warren Skaaren, American screenwriter and producer"
             ],
             "deaths": []
         },
         {
-            "year": 2017,
-            "event": "The Azure Window, a natural arch on the Maltese island of Gozo, collapses in stormy weather.",
-            "births": [],
-            "deaths": []
-        },
-        {
-            "year": 2018,
-            "event": "The first Aurat March (social/political demonstration) was held being International Women's Day in Karachi, Pakistan, since then annually held across Pakistan and feminist slogan Mera Jism Meri Marzi (My body, my choice), in demand for women's right to bodily autonomy and against gender-based violence came into vogue in Pakistan.",
-            "births": [],
+            "year": 1997,
+            "event": "Comet Hale–Bopp: Observers in China, Mongolia and eastern Siberia are treated to a rare double feature as an eclipse permits Hale-Bopp to be seen during the day.",
+            "births": [
+                "Nadeo Argawinata, Indonesian footballer",
+                "Chika, American rapper"
+            ],
             "deaths": [
-                "Kate Wilhelm, American author"
+                "Jean-Dominique Bauby, French journalist and author",
+                "Terry Nation, Welsh author and screenwriter",
+                "The Notorious B.I.G., American rapper, songwriter, and actor"
             ]
         },
         {
-            "year": 1985,
-            "event": "A supposed failed assassination attempt on Islamic cleric Sayyed Mohammad Hussein Fadlallah in Beirut, Lebanon, killing 80 and injuring 200 others.",
-            "births": [
-                "Maria Ohisalo, Finnish politician and researcher"
-            ],
+            "year": 1957,
+            "event": "The 8.6 Andreanof Islands earthquake shakes the Aleutian Islands, causing over $5 million in damage from ground movement and a destructive tsunami.",
+            "births": [],
             "deaths": []
+        },
+        {
+            "year": 1954,
+            "event": "McCarthyism: CBS television broadcasts the See It Now episode, \"A Report on Senator Joseph McCarthy\", produced by Fred Friendly.",
+            "births": [
+                "Carlos Ghosn, Brazilian-Lebanese-French business executive",
+                "Bobby Sands, PIRA volunteer; Irish republican politician",
+                "Jock Taylor, Scottish motorcycle racer"
+            ],
+            "deaths": [
+                "Vagn Walfrid Ekman, Swedish oceanographer and academic"
+            ]
         }
     ]
 }
