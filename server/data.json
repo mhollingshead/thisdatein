@@ -1,42 +1,49 @@
 {
-    "date": 1710046800000,
+    "date": 1710133200000,
     "rounds": [
         {
-            "year": 1949,
-            "event": "Mildred Gillars (\"Axis Sally\") is convicted of treason.",
+            "year": 1983,
+            "event": "Bob Hawke is appointed Prime Minister of Australia.",
+            "births": [
+                "Lukáš Krajíček, Czech ice hockey player"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1978,
+            "event": "Coastal Road massacre: At least 37 are killed and more than 70 are wounded when Fatah hijack an Israeli bus, prompting Israel's Operation Litani.",
+            "births": [
+                "Didier Drogba, Ivorian footballer",
+                "Albert Luque, Spanish footballer"
+            ],
+            "deaths": [
+                "Claude François, French entertainer"
+            ]
+        },
+        {
+            "year": 1990,
+            "event": "Lithuania declares independence from the Soviet Union.",
+            "births": [
+                "Ayumi Morita, Japanese tennis player"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 1990,
+            "event": "Patricio Aylwin is sworn in as the first democratically elected President of Chile since 1970.",
+            "births": [
+                "Ayumi Morita, Japanese tennis player"
+            ],
+            "deaths": []
+        },
+        {
+            "year": 2006,
+            "event": "Michelle Bachelet is inaugurated as the first female president of Chile.",
             "births": [],
-            "deaths": []
-        },
-        {
-            "year": 1945,
-            "event": "World War II: The U.S. Army Air Force firebombs Tokyo, and the resulting conflagration kills more than 100,000 people, mostly civilians.",
-            "births": [
-                "Katharine Houghton, American actress and playwright",
-                "Madhavrao Scindia, Indian politician, Indian Minister of Railways"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1969,
-            "event": "In Memphis, Tennessee, James Earl Ray pleads guilty to assassinating Martin Luther King Jr. He later unsuccessfully attempts to recant.",
-            "births": [
-                "Paget Brewster, American actress"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 1971,
-            "event": "John Gorton resigns as Prime Minister of Australia and the leader of the Liberal Party of Australia after a secret ballot vote of confidence, being replaced in both positions by William McMahon.",
-            "births": [
-                "Jon Hamm, American actor and director"
-            ],
-            "deaths": []
-        },
-        {
-            "year": 2017,
-            "event": "The impeachment of President Park Geun-hye of South Korea in response to a major political scandal is unanimously upheld by the country's Constitutional Court, ending her presidency.",
-            "births": [],
-            "deaths": []
+            "deaths": [
+                "Bernie Geoffrion, Canadian ice hockey player and coach",
+                "Slobodan Milošević, Serbian lawyer and politician, 3rd President of the Federal Republic of Yugoslavia"
+            ]
         }
     ]
 }
