@@ -1,49 +1,50 @@
 {
-    "date": 1710133200000,
+    "date": 1710219600000,
     "rounds": [
         {
-            "year": 1983,
-            "event": "Bob Hawke is appointed Prime Minister of Australia.",
+            "year": 1947,
+            "event": "Cold War: The Truman Doctrine is proclaimed to help stem the spread of Communism.",
             "births": [
-                "Lukáš Krajíček, Czech ice hockey player"
+                "Peter Harry Carstensen, German educator and politician",
+                "Jan-Erik Enestam, Finland-Swedish politician",
+                "David Rigert, Soviet Olympic weightlifter",
+                "Mitt Romney, American businessman and politician, 70th Governor of Massachusetts"
             ],
             "deaths": []
         },
         {
-            "year": 1978,
-            "event": "Coastal Road massacre: At least 37 are killed and more than 70 are wounded when Fatah hijack an Israeli bus, prompting Israel's Operation Litani.",
+            "year": 1933,
+            "event": "Great Depression: Franklin D. Roosevelt addresses the nation for the first time as President of the United States. This is also the first of his \"fireside chats\".",
             "births": [
-                "Didier Drogba, Ivorian footballer",
-                "Albert Luque, Spanish footballer"
-            ],
-            "deaths": [
-                "Claude François, French entertainer"
-            ]
-        },
-        {
-            "year": 1990,
-            "event": "Lithuania declares independence from the Soviet Union.",
-            "births": [
-                "Ayumi Morita, Japanese tennis player"
+                "Myrna Fahey, American actress",
+                "Barbara Feldon, American actress"
             ],
             "deaths": []
         },
         {
-            "year": 1990,
-            "event": "Patricio Aylwin is sworn in as the first democratically elected President of Chile since 1970.",
+            "year": 1913,
+            "event": "The future capital of Australia is officially named Canberra.",
             "births": [
-                "Ayumi Morita, Japanese tennis player"
+                "Yashwantrao Chavan, Indian politician, 5th Deputy Prime Minister of India",
+                "Agathe von Trapp, Hungarian-American singer and author"
             ],
             "deaths": []
         },
         {
-            "year": 2006,
-            "event": "Michelle Bachelet is inaugurated as the first female president of Chile.",
+            "year": 2020,
+            "event": "The United States suspends travel from Europe due to the COVID-19 pandemic.",
             "births": [],
-            "deaths": [
-                "Bernie Geoffrion, Canadian ice hockey player and coach",
-                "Slobodan Milošević, Serbian lawyer and politician, 3rd President of the Federal Republic of Yugoslavia"
-            ]
+            "deaths": []
+        },
+        {
+            "year": 1993,
+            "event": "North Korea announces that it will withdraw from the Treaty on the Non-Proliferation of Nuclear Weapons and refuses to allow inspectors access to its nuclear sites.",
+            "births": [
+                "Shehu Abdullahi, Nigerian footballer",
+                "Amjad Attwan, Iraqi footballer",
+                "Anton Shramchenko, Belarusian footballer"
+            ],
+            "deaths": []
         }
     ]
 }
