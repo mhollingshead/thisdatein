@@ -1,50 +1,45 @@
 {
-    "date": 1710219600000,
+    "date": 1710306000000,
     "rounds": [
         {
-            "year": 1947,
-            "event": "Cold War: The Truman Doctrine is proclaimed to help stem the spread of Communism.",
+            "year": 1974,
+            "event": "Sierra Pacific Airlines Flight 802 crashes into the White Mountains near Bishop, California, killing 36.",
             "births": [
-                "Peter Harry Carstensen, German educator and politician",
-                "Jan-Erik Enestam, Finland-Swedish politician",
-                "David Rigert, Soviet Olympic weightlifter",
-                "Mitt Romney, American businessman and politician, 70th Governor of Massachusetts"
+                "James Brinkley, Scottish cricketer",
+                "Thomas Enqvist, Swedish tennis player and sportscaster"
             ],
             "deaths": []
         },
         {
-            "year": 1933,
-            "event": "Great Depression: Franklin D. Roosevelt addresses the nation for the first time as President of the United States. This is also the first of his \"fireside chats\".",
+            "year": 1957,
+            "event": "Cuban student revolutionaries storm the presidential palace in Havana in a failed attempt on the life of President Fulgencio Batista.",
             "births": [
-                "Myrna Fahey, American actress",
-                "Barbara Feldon, American actress"
+                "John Hoeven, American banker and politician, 31st Governor of North Dakota",
+                "Moses Hogan, American composer and conductor"
             ],
             "deaths": []
         },
         {
-            "year": 1913,
-            "event": "The future capital of Australia is officially named Canberra.",
-            "births": [
-                "Yashwantrao Chavan, Indian politician, 5th Deputy Prime Minister of India",
-                "Agathe von Trapp, Hungarian-American singer and author"
-            ],
-            "deaths": []
+            "year": 2016,
+            "event": "Three gunmen attack two hotels in the Ivory Coast town of Grand-Bassam, killing at least 19 people.",
+            "births": [],
+            "deaths": [
+                "Hilary Putnam, American philosopher, mathematician, and computer scientist"
+            ]
         },
         {
             "year": 2020,
-            "event": "The United States suspends travel from Europe due to the COVID-19 pandemic.",
+            "event": "Breonna Taylor is killed by police officers who were forcibly entering her home in Louisville, Kentucky; her death sparked extensive protests against racism and police brutality.",
             "births": [],
             "deaths": []
         },
         {
-            "year": 1993,
-            "event": "North Korea announces that it will withdraw from the Treaty on the Non-Proliferation of Nuclear Weapons and refuses to allow inspectors access to its nuclear sites.",
-            "births": [
-                "Shehu Abdullahi, Nigerian footballer",
-                "Amjad Attwan, Iraqi footballer",
-                "Anton Shramchenko, Belarusian footballer"
-            ],
-            "deaths": []
+            "year": 2016,
+            "event": "The Ankara bombing kills at least 37 people.",
+            "births": [],
+            "deaths": [
+                "Hilary Putnam, American philosopher, mathematician, and computer scientist"
+            ]
         }
     ]
 }
